@@ -1,4 +1,5 @@
 import React, { useState, useMemo } from 'react';
+import { Analytics } from '@vercel/analytics/react';
 import { 
   Heart, 
   BookOpen, 
@@ -2731,6 +2732,7 @@ export default function MicroScriptApp() {
           </div>
         )}
       </div>
+      <Analytics />
     </div>
   );
 }
