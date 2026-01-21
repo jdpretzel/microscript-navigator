@@ -2406,6 +2406,11 @@ Board questions highlight medication reconciliation and the impact of social det
 // --- MAIN APP COMPONENT ---
 
 export default function MicroScriptApp() {
+  const [showLandingPage, setShowLandingPage] = useState(() => {
+    // Check if user has previously dismissed the landing page
+    const dismissed = localStorage.getItem('landingPageDismissed');
+    return dismissed !== 'true';
+  });
   const [activeWeek, setActiveWeek] = useState('Week 1');
   const [activeTopicIndex, setActiveTopicIndex] = useState(0);
   const [searchTerm, setSearchTerm] = useState('');
@@ -2464,6 +2469,30 @@ export default function MicroScriptApp() {
   );
   
   const activeTopic = filteredTopics[activeTopicIndex];
+
+  // --- HELPER FUNCTIONS FOR LINKIFYING REFERENCES ---
+
+  const linkifyDOI = (text) => {
+    // Match patterns like "doi:10.xxxx/yyyy" or "DOI: 10.xxxx/yyyy"
+    const doiRegex = /\b(doi|DOI):\s*(10\.\d+\/[^\s]+)/g;
+    return text.replace(doiRegex, (match, prefix, doi) => {
+      return `<a href="https://doi.org/${doi}" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 underline">${prefix}:${doi}</a>`;
+    });
+  };
+
+  const linkifyPMID = (text) => {
+    // Match patterns like "PMID: 12345678" or "PMID 12345678"
+    const pmidRegex = /\b(PMID):\s*(\d+)/g;
+    return text.replace(pmidRegex, (match, prefix, pmid) => {
+      return `<a href="https://pubmed.ncbi.nlm.nih.gov/${pmid}/" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 underline">${prefix}: ${pmid}</a>`;
+    });
+  };
+
+  const linkifyReferences = (text) => {
+    let result = linkifyDOI(text);
+    result = linkifyPMID(result);
+    return result;
+  };
 
   // --- RENDERERS FOR SPECIFIC SECTIONS ---
 
@@ -2536,6 +2565,97 @@ export default function MicroScriptApp() {
       </div>
     );
   };
+
+  // Landing Page Component
+  const LandingPage = () => {
+    const handleGetStarted = () => {
+      localStorage.setItem('landingPageDismissed', 'true');
+      setShowLandingPage(false);
+    };
+
+    return (
+      <div className="min-h-screen bg-gradient-to-br from-blue-600 via-indigo-700 to-purple-800 flex items-center justify-center p-4">
+        <div className="max-w-3xl w-full bg-white rounded-2xl shadow-2xl p-8 md:p-12">
+          <div className="text-center">
+            <div className="inline-block bg-blue-100 p-4 rounded-full mb-6">
+              <Activity className="w-16 h-16 text-blue-600" />
+            </div>
+
+            <h1 className="text-4xl md:text-5xl font-bold text-slate-900 mb-4">
+              MicroScript Navigator
+            </h1>
+
+            <p className="text-xl text-slate-600 mb-8">
+              Your Clinical Teaching Companion
+            </p>
+
+            <div className="text-left space-y-6 mb-10">
+              <div className="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r">
+                <h2 className="font-bold text-lg text-blue-900 mb-2 flex items-center">
+                  <Stethoscope className="w-5 h-5 mr-2" />
+                  What is this?
+                </h2>
+                <p className="text-slate-700">
+                  A collection of clinical microscripts for Ask-a-Resident teaching sessions.
+                  Each topic provides concise, evidence-based guidance for common internal medicine scenarios.
+                </p>
+              </div>
+
+              <div className="bg-purple-50 border-l-4 border-purple-500 p-4 rounded-r">
+                <h2 className="font-bold text-lg text-purple-900 mb-2 flex items-center">
+                  <Heart className="w-5 h-5 mr-2" />
+                  Who is this for?
+                </h2>
+                <p className="text-slate-700">
+                  Medical students on internal medicine clerkship rotations. Content is organized by
+                  week and covers core topics in cardiology, pulmonology, renal, endocrinology, infectious disease,
+                  GI, hematology, and general hospital medicine.
+                </p>
+              </div>
+
+              <div className="bg-green-50 border-l-4 border-green-500 p-4 rounded-r">
+                <h2 className="font-bold text-lg text-green-900 mb-2 flex items-center">
+                  <BookOpen className="w-5 h-5 mr-2" />
+                  How to navigate
+                </h2>
+                <ul className="text-slate-700 space-y-2">
+                  <li className="flex items-start">
+                    <ChevronRight className="w-5 h-5 mr-2 text-green-600 flex-shrink-0 mt-0.5" />
+                    <span>Select a <strong>week</strong> from the sidebar to focus on a specialty area</span>
+                  </li>
+                  <li className="flex items-start">
+                    <ChevronRight className="w-5 h-5 mr-2 text-green-600 flex-shrink-0 mt-0.5" />
+                    <span>Browse <strong>topics</strong> within each week to find specific clinical scenarios</span>
+                  </li>
+                  <li className="flex items-start">
+                    <ChevronRight className="w-5 h-5 mr-2 text-green-600 flex-shrink-0 mt-0.5" />
+                    <span>Use the <strong>search bar</strong> to quickly find topics by keyword</span>
+                  </li>
+                  <li className="flex items-start">
+                    <ChevronRight className="w-5 h-5 mr-2 text-green-600 flex-shrink-0 mt-0.5" />
+                    <span>Click <strong>DOIs and PMIDs</strong> in references to access source literature</span>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <button
+              onClick={handleGetStarted}
+              className="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-blue-600 to-indigo-600 text-white font-bold rounded-lg shadow-lg hover:from-blue-700 hover:to-indigo-700 transform hover:scale-105 transition-all duration-200 flex items-center justify-center mx-auto"
+            >
+              Get Started
+              <ArrowRight className="w-5 h-5 ml-2" />
+            </button>
+          </div>
+        </div>
+      </div>
+    );
+  };
+
+  // Show landing page if not dismissed
+  if (showLandingPage) {
+    return <LandingPage />;
+  }
 
   return (
     <div className="flex h-screen bg-slate-100 font-sans overflow-hidden">
@@ -2687,7 +2807,7 @@ export default function MicroScriptApp() {
                   <h4 className="text-xs font-bold text-slate-400 uppercase tracking-wider mb-3">References</h4>
                   <div className="text-xs text-slate-500 space-y-1">
                     {activeTopic['References'].split('\n').filter(r => r.trim()).map((ref, i) => (
-                      <p key={i}>{ref}</p>
+                      <p key={i} dangerouslySetInnerHTML={{ __html: linkifyReferences(ref) }} />
                     ))}
                   </div>
                 </div>
