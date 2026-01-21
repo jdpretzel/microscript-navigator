@@ -1,0 +1,495 @@
+# COPD Exacerbation: Severity and Treatment
+
+## Clinical Setup
+A 68-year-old woman with chronic obstructive pulmonary disease (COPD) comes to the emergency department complaining of increasing dyspnea and productive cough. Her oxygen saturation on room air is 86% and she has audible wheezing. How do you classify the severity of this exacerbation and what interventions should be initiated?
+
+## Teaching Objectives
+- Classify COPD exacerbations and recognize when hospitalization is indicated
+- Apply a stepwise management approach including bronchodilators, oxygen, steroids and antibiotics
+
+## Teaching Points
+1. Exacerbations are classified by treatment intensity: *mild* if relieved with short-acting bronchodilators alone, *moderate* if requiring systemic steroids and/or antibiotics, and *severe* if associated with respiratory failure or hospitalization [Ref 1].
+2. Initial therapy includes inhaled short-acting beta2-agonists and anticholinergics given via metered-dose inhaler or nebulizer; these improve expiratory airflow and symptoms [Ref 1].
+3. Administer controlled oxygen via nasal cannula or Venturi mask to maintain oxygen saturation 88-92%; avoid high-concentration oxygen which increases mortality in COPD due to worsening hypercapnia [Ref 2].
+4. Give systemic glucocorticoids (e.g., prednisone 40 mg daily for 5 days) to shorten recovery time and reduce risk of relapse; a 5-day course is noninferior to a 14-day course [Ref 3].
+5. Start antibiotics when there is increased sputum purulence, volume, or dyspnea, or in patients requiring mechanical ventilation; choose an agent active against *Haemophilus influenzae*, *Streptococcus pneumoniae* and *Moraxella catarrhalis* [Ref 1].
+
+## Key Numbers
+- Oxygen therapy target saturation: 88-92% to avoid carbon dioxide retention [Ref 2]
+- Prednisone 40 mg orally daily for 5 days is noninferior to a 14-day course for preventing relapse [Ref 3]
+- High-concentration oxygen (>6 L/min via non-rebreather) increases mortality in COPD exacerbations (number needed to harm approximately 14) [Ref 2]
+
+## Common Pitfall
+Using high-concentration oxygen or failing to titrate oxygen causes worsening hypercapnia and increased mortality in COPD exacerbations. Always titrate oxygen to the 88-92% target and reassess arterial blood gases to prevent CO2 narcosis [Ref 2].
+
+## Boards + Bedside Tie-In
+Exam questions often test recognition of COPD exacerbation severity and appropriate use of steroids and antibiotics. Clinically, being able to classify an exacerbation and deliver a standardized bundle (bronchodilators, controlled oxygen, short-course steroids and antibiotics) improves outcomes and reduces hospitalization.
+
+## References
+1. Carlin BW. Exacerbations of COPD. Respir Care. 2023;68(7):961-972. doi:10.4187/respcare.10782 PMID: 37353338
+2. Pilcher J, Beasley R. Acute use of oxygen therapy. Aust Prescr. 2015;38(3):98-100. doi:10.18773/austprescr.2015.033 PMID: 26648631
+3. Leuppi JD, Schuetz P, Bingisser R, et al. Short-term vs conventional glucocorticoid therapy in acute exacerbations of chronic obstructive pulmonary disease: The REDUCE randomized clinical trial. JAMA. 2013;309(21):2223-2231. doi:10.1001/jama.2013.5023 PMID: 23695200
+
+---
+
+# Asthma Exacerbation: Inpatient Management
+
+## Clinical Setup
+A 30-year-old man with a history of asthma presents with wheezing and shortness of breath after exposure to a friend's cat. In the emergency department he requires repeated albuterol nebulizations and supplemental oxygen to maintain an oxygen saturation of 94%. What medications and monitoring are indicated in the first 24 hours?
+
+## Teaching Objectives
+- Manage moderate to severe asthma exacerbations using inhaled bronchodilators, systemic steroids and adjunctive therapies
+- Recognize appropriate oxygen saturation targets and avoid unnecessary investigations or medications
+
+## Teaching Points
+1. Begin with repeated short-acting beta2-agonist (e.g., albuterol) therapy and add inhaled anticholinergics (ipratropium) for moderate to severe attacks; early frequent dosing improves lung function and reduces hospital admissions [Ref 1].
+2. Start systemic corticosteroids promptly (e.g., oral prednisolone 40-50 mg daily for 5-7 days for adults or 1-2 mg/kg up to 40 mg for children) to reduce inflammation and prevent relapse; tapering is unnecessary for courses under 2 weeks [Ref 1].
+3. Provide controlled oxygen to maintain saturations 93-95% in adults (94-98% in children); avoid both hypoxia and hyperoxia and continuously monitor saturation [Ref 1].
+4. Consider intravenous magnesium sulfate (2 g over 20 minutes) for severe exacerbations unresponsive to initial bronchodilators and steroids; it relaxes airway smooth muscle and can avert intubation [Ref 1].
+5. Do not routinely order chest radiographs, arterial blood gases, antibiotics or sedatives unless complications (e.g., pneumothorax, infection) are suspected; unnecessary tests can delay care and increase costs [Ref 1].
+
+## Key Numbers
+- Prednisolone dose: 40-50 mg daily for 5-7 days in adults; 1-2 mg/kg (max 40 mg) for 3-5 days in children [Ref 1]
+- Oxygen saturation target: 93-95% (adults) or 94-98% (children) [Ref 1]
+- Intravenous magnesium sulfate 2 g over 20 minutes for severe exacerbations [Ref 1]
+
+## Teaching Pearl
+Early administration of systemic corticosteroids (ideally within the first hour of presentation) shortens the duration of the exacerbation and reduces the need for hospitalization. Delay beyond two hours is associated with longer hospital stays and higher relapse rates [Ref 1].
+
+## Boards + Bedside Tie-In
+Exams often query the sequencing of therapies in severe asthma. At the bedside, a mental checklist (SABA, ipratropium, steroids, oxygen titration, consider magnesium) ensures essential therapies are delivered promptly while avoiding unnecessary tests.
+
+## References
+1. Global Initiative for Asthma (GINA). Global strategy for asthma management and prevention. 2023 Report. Available from: https://ginasthma.org
+2. Alangari A, Alhazzani W, Al-Mahdi M. Management of asthma exacerbation in the emergency departments. Int J Pediatr Adolesc Med. 2019;6(3):109-114. doi:10.1016/j.ijpam.2019.07.001 PMID: 31388549
+
+---
+
+# Oxygen Delivery Systems and Targets
+
+## Clinical Setup
+A 55-year-old man with pneumonia is hypoxic, with oxygen saturation of 88% on room air. You need to choose an appropriate oxygen delivery device and target saturation range. How do you match devices to patient needs and set appropriate goals?
+
+## Teaching Objectives
+- Compare common oxygen delivery devices and select an appropriate device based on flow requirements
+- Specify target oxygen saturation ranges for different patient populations
+
+## Teaching Points
+1. Low-flow nasal cannula delivers 1-6 L/min with a fraction of inspired oxygen (FiO2) of approximately 24-44%; it is comfortable and suitable for patients needing modest oxygen supplementation [Ref 1].
+2. Simple face masks require 6-10 L/min to avoid rebreathing CO2 and provide FiO2 around 28-50%; non-rebreather masks deliver 10-15 L/min with FiO2 up to 60-80% for short-term use in severe hypoxemia [Ref 1].
+3. High-flow nasal oxygen systems deliver up to 60 L/min and 100% FiO2 with heated, humidified gas; they improve mucociliary clearance and can provide low levels of positive end-expiratory pressure [Ref 1].
+4. For most acutely ill patients without chronic hypercapnia, target oxygen saturation is 94-98%; in patients at risk of hypercapnic respiratory failure (e.g., COPD, severe obesity-hypoventilation) target 88-92% to avoid worsening hypercapnia [Ref 2].
+5. Oxygen is a drug that should be prescribed with a target saturation range; reassess saturations and arterial blood gases after initiating therapy and adjust device or flow accordingly [Ref 2].
+
+## Key Numbers
+- Nasal cannula: 1-6 L/min, FiO2 24-44% [Ref 1]
+- Simple mask: 6-10 L/min, FiO2 28-50%; non-rebreather: 10-15 L/min, FiO2 60-80% [Ref 1]
+- High-flow nasal oxygen: up to 60 L/min, FiO2 21-100% [Ref 1]
+
+## Common Pitfall
+Failing to set a target saturation range leads to both hypoxemia and hyperoxia. Hyperoxia can cause vasoconstriction and increased oxidative stress, while uncontrolled high-flow oxygen in COPD precipitates CO2 retention. Always write an order with the device, flow rate and target SpO2 range [Ref 2].
+
+## Boards + Bedside Tie-In
+Exams frequently test the differences among oxygen delivery devices and appropriate SpO2 targets in COPD versus other conditions. Clinically, understanding flow capabilities and FiO2 helps you select the right device and titrate therapy safely for your patient.
+
+## References
+1. O'Driscoll BR, Howard LS, Earis J, Mak V. British Thoracic Society guideline for oxygen use in adults in healthcare and emergency settings. BMJ Open Respir Res. 2017;4(1):e000170. doi:10.1136/bmjresp-2016-000170 PMID: 28883921
+2. Siemieniuk RAC, Chu DK, Kim LH, et al. Oxygen therapy for acutely ill medical patients: a clinical practice guideline. BMJ. 2018;363:k4169. doi:10.1136/bmj.k4169 PMID: 30355567
+
+---
+
+# Noninvasive Respiratory Support: Device Selection
+
+## Clinical Setup
+An 80-year-old man with a history of chronic heart failure develops acute pulmonary edema with respiratory distress and oxygen saturation of 82% despite 15 L/min via non-rebreather mask. He is hemodynamically stable but tachypneic. How do you choose among high-flow nasal oxygen, continuous positive airway pressure (CPAP) and bilevel positive airway pressure (BiPAP)?
+
+## Teaching Objectives
+- Differentiate indications for CPAP, BiPAP and high-flow nasal therapy in acute respiratory failure
+- Recognize the evidence-based benefits and limitations of noninvasive ventilation
+
+## Teaching Points
+1. High-flow nasal therapy (HFNT) delivers warmed, humidified oxygen at 30-60 L/min and is first-line for de novo acute hypoxemic respiratory failure (e.g., pneumonia, COVID-19) because it improves oxygenation and patient comfort; it may also reduce intubation rates compared with conventional oxygen [Ref 1].
+2. CPAP provides continuous positive airway pressure via facemask and is indicated for cardiogenic pulmonary edema or obstructive sleep apnea exacerbations; it recruits alveoli and reduces preload and afterload, improving oxygenation [Ref 1].
+3. BiPAP (bilevel positive airway pressure) delivers separate inspiratory and expiratory pressures and is preferred for hypercapnic respiratory failure with respiratory acidosis, such as COPD exacerbations, to decrease work of breathing and CO2 levels [Ref 1].
+4. A meta-analysis of noninvasive ventilation demonstrated that noninvasive positive pressure ventilation significantly reduces the need for intubation and ICU mortality compared with conventional therapy; however, benefits for hospital mortality or length of stay were not statistically significant [Ref 2].
+5. Contraindications to noninvasive ventilation include hemodynamic instability, inability to protect the airway, severe encephalopathy and facial trauma; early identification of failure and timely intubation are critical [Ref 1].
+
+## Key Numbers
+- HFNT flow range: 30-60 L/min, FiO2 up to 100% [Ref 1]
+- Pooled risk ratio for intubation with noninvasive ventilation: 0.43 (95% CI 0.32-0.57) compared with conventional therapy [Ref 2]
+- Pooled risk ratio for mortality reduction: 0.55 (95% CI 0.40-0.78) compared with conventional therapy [Ref 2]
+
+## Teaching Pearl
+Selecting the appropriate device is driven by the underlying pathophysiology: HFNT for hypoxemic respiratory failure, CPAP for cardiogenic edema or hypoxic COVID-19, and BiPAP for hypercapnic states. Starting the wrong modality delays effective therapy and increases risk of intubation [Ref 1].
+
+## Boards + Bedside Tie-In
+Knowledge of noninvasive ventilation indications and contraindications is increasingly tested on board exams. At the bedside, early application of the appropriate modality, coupled with close monitoring for improvement, can avert invasive ventilation and reduce ICU mortality.
+
+## References
+1. Rochwerg B, Brochard L, Elliott MW, et al. Official ERS/ATS clinical practice guidelines: noninvasive ventilation for acute respiratory failure. Eur Respir J. 2017;50(2):1602426. doi:10.1183/13993003.02426-2016 PMID: 28860265
+2. Masip J, Roque M, Sánchez B, et al. Noninvasive ventilation in acute cardiogenic pulmonary edema: systematic review and meta-analysis. JAMA. 2005;294(24):3124-3130. doi:10.1001/jama.294.24.3124 PMID: 16380593
+
+---
+
+# Pleural Effusion: Diagnostic Approach
+
+## Clinical Setup
+A 62-year-old woman with a history of congestive heart failure presents with dyspnea. Chest radiograph shows a moderate left-sided pleural effusion. How do you determine whether the effusion is transudative or exudative, and what diagnostic studies should be ordered?
+
+## Teaching Objectives
+- Apply Light's criteria to classify pleural fluid and guide management
+- Identify essential diagnostic tests and recognize when additional tests (e.g., NT-proBNP) are needed
+
+## Teaching Points
+1. Perform thoracentesis unless heart failure is strongly suspected and the effusion resolves with diuresis; send pleural fluid for protein, lactate dehydrogenase (LDH), pH, glucose, cell count with differential and Gram stain/culture [Ref 1, 2].
+2. Use Light's criteria to classify exudates: pleural fluid protein/serum protein ratio >0.5, pleural fluid LDH/serum LDH ratio >0.6, or pleural LDH >2/3 the upper limit of normal; meeting any criterion identifies an exudate [Ref 1].
+3. Transudates are typically due to heart failure, cirrhosis or nephrotic syndrome; exudates result from infection, malignancy or inflammatory conditions and often require further evaluation such as cytology or pleural biopsy [Ref 1].
+4. Light's criteria may misclassify some heart failure effusions as exudates after diuresis; measurement of serum-pleural fluid albumin or protein gradients or NT-proBNP can improve diagnostic accuracy in suspected cardiac cases [Ref 2].
+5. A pleural fluid pH <7.2 or glucose <60 mg/dL suggests complicated parapneumonic effusion or empyema and mandates prompt chest tube drainage in addition to antibiotics [Ref 2].
+
+## Key Numbers
+- Pleural fluid protein/serum protein ratio >0.5 or LDH ratio >0.6 defines an exudate [Ref 1]
+- Pleural pH <7.2 indicates the need for drainage of parapneumonic effusion [Ref 2]
+- NT-proBNP >1,500 pg/mL in pleural fluid helps confirm heart failure-related effusions [Ref 2]
+
+## Common Pitfall
+Relying solely on chest radiographs or failing to analyze pleural fluid can lead to misclassification. Likewise, performing thoracentesis after diuresis may falsely elevate protein concentrations and label a transudate as an exudate. When heart failure is strongly suspected, consider checking serum-pleural albumin gradient or NT-proBNP before tapping [Ref 2].
+
+## Boards + Bedside Tie-In
+Board questions often ask about Light's criteria and the next step when an exudate is identified. Clinically, timely thoracentesis with appropriate fluid studies guides therapy and avoids missed diagnoses such as malignancy or empyema.
+
+## References
+1. Light RW, MacGregor MI, Luchsinger PC, Ball WC Jr. Pleural effusions: the diagnostic separation of transudates and exudates. Ann Intern Med. 1972;77(4):507-513. doi:10.7326/0003-4819-77-4-507 PMID: 4642731
+2. Roberts ME, Rahman NM, Maskell NA, et al. British Thoracic Society Guideline for pleural disease. Thorax. 2023;78(11):1143-1156. doi:10.1136/thorax-2023-220304 PMID: 37553157
+
+---
+
+# AKI: Distinguishing Prerenal from Intrinsic
+
+## Clinical Setup
+A 77-year-old man presents with oliguria and rising serum creatinine after several days of vomiting and diarrhea. Laboratory studies show blood urea nitrogen (BUN) 60 mg/dL and creatinine 2.0 mg/dL. How can you differentiate prerenal azotemia from intrinsic acute kidney injury (AKI), and what initial management is indicated?
+
+## Teaching Objectives
+- Interpret laboratory indices such as fractional excretion of sodium (FENa) and urea (FEUrea) to distinguish prerenal from intrinsic AKI
+- Initiate appropriate fluid resuscitation and avoid nephrotoxic agents while the cause is being identified
+
+## Teaching Points
+1. Prerenal AKI results from decreased renal perfusion (e.g., volume depletion, heart failure); intrinsic AKI results from tubular, glomerular or vascular injury. A FENa <1% suggests prerenal azotemia, while FENa >2% suggests intrinsic tubular injury [Ref 1].
+2. FENa may be unreliable in patients on diuretics; in such cases calculate the fractional excretion of urea (FEUrea): values <35% suggest prerenal AKI, whereas values >50% suggest intrinsic AKI [Ref 1].
+3. A BUN/creatinine ratio >20:1 supports prerenal AKI, whereas intrinsic renal injury often has a lower ratio due to impaired tubular reabsorption of urea [Ref 1].
+4. Urinalysis aids differentiation: bland sediment and hyaline casts are common in prerenal states; muddy brown granular casts and tubular epithelial cells suggest acute tubular necrosis [Ref 1, 2].
+5. Initial management includes discontinuing nephrotoxic medications, ensuring adequate hemodynamic support and administering isotonic crystalloid to restore perfusion; avoid excessive fluids if there is concern for cardiogenic shock [Ref 2].
+
+## Key Numbers
+- Fractional excretion of sodium (FENa) <1% indicates prerenal AKI; >2% suggests intrinsic AKI [Ref 1]
+- Fractional excretion of urea (FEUrea) <35% suggests prerenal AKI; >50% suggests intrinsic AKI [Ref 1]
+- BUN/Cr ratio >20:1 supports prerenal azotemia [Ref 1]
+
+## Teaching Pearl
+FENa calculations are inaccurate if diuretics were recently administered. In such cases, FEUrea provides a more reliable index for distinguishing prerenal azotemia from intrinsic AKI [Ref 1].
+
+## Boards + Bedside Tie-In
+Exam questions often require interpretation of FENa, FEUrea and urinalysis to localize the site of AKI. Clinically, differentiating prerenal from intrinsic AKI guides management: volume repletion reverses prerenal azotemia, whereas intrinsic injury may require nephrology consultation and avoidance of further insults.
+
+## References
+1. Mercado MG, Smith DK, McConnon ML. Acute kidney injury: diagnosis and management. Am Fam Physician. 2019;100(11):687-694. PMID: 31790176
+2. Kellum JA, Lameire N; KDIGO AKI Guideline Work Group. Diagnosis, evaluation, and management of acute kidney injury: a KDIGO summary (Part 1). Crit Care. 2013;17(1):204. doi:10.1186/cc11454 PMID: 23394211
+
+---
+
+# Contrast-Induced Nephropathy: Prevention
+
+## Clinical Setup
+A 70-year-old woman with chronic kidney disease stage 3 is scheduled for coronary angiography. Her creatinine is 1.6 mg/dL and she takes lisinopril and metformin. What strategies can minimize her risk of contrast-induced acute kidney injury (CI-AKI)?
+
+## Teaching Objectives
+- Implement evidence-based prophylactic measures to prevent CI-AKI
+- Identify medications that should be withheld or initiated around the time of contrast exposure
+
+## Teaching Points
+1. Use isotonic saline (0.9% sodium chloride) at 1-1.5 mL/kg/h for 3-12 hours before and 6-24 hours after contrast exposure; periprocedural hydration is the most effective prophylaxis [Ref 1].
+2. Avoid nephrotoxic agents (non-steroidal anti-inflammatory drugs, aminoglycosides), and hold renin-angiotensin system inhibitors and diuretics on the day of the procedure when feasible; ensure adequate hydration before resuming [Ref 1].
+3. High-dose statin therapy (e.g., atorvastatin 80 mg) should be initiated or intensified because statins have pleiotropic renal protective effects with low risk [Ref 1].
+4. Goal-directed hydration using left ventricular end-diastolic pressure or urine flow measurements (POSEIDON strategy) can reduce CI-AKI compared with fixed-rate fluids (incidence 6.7% vs 16.3%) [Ref 2].
+5. Sodium bicarbonate solutions and N-acetylcysteine have not shown benefit over isotonic saline in large trials and are not recommended as sole preventive therapies; their routine use is discouraged [Ref 1].
+
+## Key Numbers
+- Isotonic saline rate: 1-1.5 mL/kg/h for 3-12 hours pre-procedure and 6-24 hours post-procedure [Ref 1]
+- Goal-directed hydration (POSEIDON trial): CI-AKI 6.7% vs 16.3% with standard hydration [Ref 2]
+- High-dose statin therapy reduces risk of CI-AKI and is cost-effective [Ref 1]
+
+## Common Pitfall
+Using sodium bicarbonate infusion or N-acetylcysteine alone without adequate hydration does not prevent CI-AKI. Reliance on these interventions may provide false reassurance and delay effective prophylaxis [Ref 1].
+
+## Boards + Bedside Tie-In
+Board exams may test the relative efficacy of hydration strategies and the lack of benefit from bicarbonate or N-acetylcysteine. Clinically, careful pre-procedural assessment and isotonic fluid administration are the mainstays of prevention, especially in high-risk patients with chronic kidney disease.
+
+## References
+1. Sůva M, Kala P, Polansky P, et al. Contrast-induced acute kidney injury and its contemporary prevention. Front Cardiovasc Med. 2022;9:1073072. doi:10.3389/fcvm.2022.1073072 PMID: 36561776
+2. Brar SS, Aharonian V, Mansukhani P, et al. Haemodynamic-guided fluid administration for the prevention of contrast-induced acute kidney injury: the POSEIDON randomised controlled trial. Lancet. 2014;383(9931):1814-1823. doi:10.1016/S0140-6736(14)60689-9 PMID: 24856027
+
+---
+
+# CKD Complications: What to Monitor
+
+## Clinical Setup
+A 64-year-old man with chronic kidney disease (CKD) stage 3b and diabetes comes for routine follow-up. His estimated glomerular filtration rate (eGFR) is 40 mL/min/1.73 m2. What laboratory tests and clinical parameters should be monitored to detect complications and slow CKD progression?
+
+## Teaching Objectives
+- Identify key laboratory and clinical parameters to monitor in patients with CKD stages 3-5
+- Recognize interventions that reduce cardiovascular and renal risk in CKD
+
+## Teaching Points
+1. Check serum creatinine and eGFR at least twice yearly to monitor disease progression; assess urinary albumin-to-creatinine ratio annually to detect albuminuria and adjust therapy accordingly [Ref 1, 2].
+2. Monitor hemoglobin annually for anemia beginning at CKD stage 3; evaluate for iron deficiency and consider erythropoiesis-stimulating agents when hemoglobin is less than 10 g/dL and iron stores are adequate [Ref 2].
+3. Assess calcium, phosphate, parathyroid hormone (PTH) and 25-hydroxyvitamin D levels in CKD stages 3a-5 to detect mineral bone disorder; treat with dietary phosphate restriction, vitamin D analogues and calcimimetics as indicated [Ref 2].
+4. Optimize blood pressure control to less than 140/90 mmHg or less than 120 mmHg if tolerated using renin-angiotensin system inhibitors and sodium-glucose cotransporter 2 (SGLT2) inhibitors; both slow progression of diabetic and non-diabetic CKD [Ref 2].
+5. Avoid nephrotoxic agents and contrast media; use caution with medications cleared by the kidney (e.g., metformin) and adjust doses based on eGFR [Ref 1].
+
+## Key Numbers
+- Annual hemoglobin measurement starting at CKD stage 3 [Ref 2]
+- Target blood pressure: less than 140/90 mmHg; consider less than 120 mmHg if tolerated [Ref 2]
+- SGLT2 inhibitors reduce risk of kidney disease progression and cardiovascular events in CKD [Ref 2]
+
+## Teaching Pearl
+Bone-mineral disorder often begins early in CKD; monitoring PTH, calcium, phosphate and vitamin D allows timely initiation of phosphate binders or calcimimetics, reducing fracture risk and vascular calcification [Ref 2].
+
+## Boards + Bedside Tie-In
+Board questions emphasize recognition of CKD complications such as anemia, bone-mineral disorder and cardiovascular risk. In practice, regular monitoring and optimization of blood pressure, glycemic control and medication dosing are key to slowing progression and improving patient outcomes.
+
+## References
+1. Mercado MG, Smith DK, McConnon ML. Acute kidney injury: diagnosis and management. Am Fam Physician. 2019;100(11):687-694. PMID: 31790176
+2. Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease. Kidney Int. 2024;105(4S):S117-S314. doi:10.1016/j.kint.2023.10.018 PMID: 38490803
+
+---
+
+# Indications for Urgent Dialysis
+
+## Clinical Setup
+A 58-year-old man admitted with sepsis develops oliguric AKI with creatinine rising from 1.0 to 4.5 mg/dL over two days. He is now confused with potassium 6.8 mEq/L, peaked T waves on ECG, and arterial pH 7.05. When should renal replacement therapy be initiated?
+
+## Teaching Objectives
+- Recognize absolute and relative indications for urgent renal replacement therapy in acute kidney injury
+- Apply the AEIOU mnemonic to remember emergent indications for dialysis
+
+## Teaching Points
+1. Acidosis: Refractory metabolic acidosis (pH <7.1 despite bicarbonate therapy) warrants dialysis to remove acid and restore acid-base balance [Ref 1].
+2. Electrolyte abnormalities: Severe hyperkalemia (K >6 mEq/L or with electrocardiographic changes) or other life-threatening electrolyte disturbances require immediate dialysis [Ref 1].
+3. Ingestion: Dialyzable toxin ingestions (e.g., lithium, ethylene glycol, methanol, salicylates) are indications for urgent dialysis [Ref 1].
+4. Overload: Pulmonary edema or refractory fluid overload despite diuretics necessitates dialysis to remove excess volume [Ref 1].
+5. Uremia: Clinical manifestations such as encephalopathy, seizures, pericarditis or significant bleeding due to platelet dysfunction are indications for urgent dialysis; a blood urea nitrogen >100 mg/dL, even without symptoms, is often used as a threshold [Ref 1].
+
+## Key Numbers
+- Hyperkalemia threshold: >6 mEq/L with ECG changes requires dialysis [Ref 1]
+- Severe acidosis: pH <7.1 despite bicarbonate therapy indicates dialysis [Ref 1]
+- BUN >100 mg/dL may warrant dialysis even in absence of symptoms [Ref 1]
+
+## Teaching Pearl
+The AEIOU mnemonic summarizes emergent indications for dialysis: Acidosis, Electrolytes, Ingestion, Overload, Uremia. Recognizing these conditions and initiating timely renal replacement therapy can be life-saving [Ref 1].
+
+## Boards + Bedside Tie-In
+Exams frequently use case scenarios with hyperkalemia or uremic encephalopathy to test dialysis indications. In real life, early consultation with nephrology and prompt initiation of dialysis based on AEIOU criteria prevent catastrophic complications.
+
+## References
+1. Gaudry S, Hajage D, Schortgen F, et al. Initiation strategies for renal-replacement therapy in the intensive care unit. N Engl J Med. 2016;375(2):122-133. doi:10.1056/NEJMoa1603017 PMID: 27181456
+2. Kellum JA, Lameire N; KDIGO AKI Guideline Work Group. Diagnosis, evaluation, and management of acute kidney injury: a KDIGO summary (Part 1). Crit Care. 2013;17(1):204. doi:10.1186/cc11454 PMID: 23394211
+
+---
+
+# Medication-Induced Nephrotoxicity: Prevention
+
+## Clinical Setup
+A 72-year-old woman with hypertension and osteoarthritis is prescribed ibuprofen and started on an ACE inhibitor and a diuretic for hypertension. One week later she develops fatigue and reduced urine output; her creatinine rises from 1.2 to 2.5 mg/dL. How can medication-induced nephrotoxicity be prevented and recognized early?
+
+## Teaching Objectives
+- Identify risk factors and high-risk drug combinations that predispose patients to nephrotoxicity
+- Implement strategies to prevent nephrotoxicity and monitor renal function during drug therapy
+
+## Teaching Points
+1. Advanced age (>60 years), baseline renal insufficiency, volume depletion, diabetes mellitus, congestive heart failure and sepsis increase susceptibility to drug-induced nephrotoxicity; minimize nephrotoxin exposure in these populations [Ref 1, 2].
+2. The "triple whammy" of non-steroidal anti-inflammatory drugs (NSAIDs), ACE inhibitors or angiotensin receptor blockers (ARBs), and diuretics can cause synergistic declines in glomerular filtration; avoid this combination when possible or monitor closely [Ref 1].
+3. Obtain baseline serum creatinine and estimate glomerular filtration rate before starting potentially nephrotoxic drugs (e.g., aminoglycosides, amphotericin B, calcineurin inhibitors); adjust doses based on renal function and monitor serum levels when appropriate [Ref 2].
+4. Ensure adequate hydration and correct modifiable risk factors (hypotension, hypovolemia); avoid concomitant use of multiple nephrotoxic agents and limit duration of therapy; regularly monitor creatinine, BUN and urine output during treatment [Ref 1].
+5. Early recognition of rising creatinine or decreasing urine output should prompt dose adjustment or discontinuation of the offending drug to prevent progression to severe AKI; most drug-induced nephrotoxicity is reversible if caught early [Ref 2].
+
+## Key Numbers
+- Advanced age (>60 years) and pre-existing renal disease significantly increase risk of nephrotoxicity [Ref 1]
+- "Triple whammy" (NSAID + ACE/ARB + diuretic) is the most common drug combination causing AKI [Ref 1]
+- Monitoring renal function every 48-72 hours after initiating high-risk drugs helps detect toxicity early [Ref 2]
+
+## Common Pitfall
+Prescribing NSAIDs in patients on ACE inhibitors and diuretics without counseling on hydration or monitoring renal function leads to rapid decline in glomerular filtration rate. Always review medication lists and educate patients to avoid over-the-counter NSAIDs [Ref 1].
+
+## Boards + Bedside Tie-In
+Examinations often ask about drug combinations that precipitate AKI. In practice, vigilant review of the medication list, avoidance of nephrotoxin combinations and regular monitoring of renal function protect patients from iatrogenic kidney injury.
+
+## References
+1. Naughton CA. Drug-induced nephrotoxicity. Am Fam Physician. 2008;78(6):743-750. PMID: 18819242
+2. Perazella MA. Drug-induced acute kidney injury: diverse mechanisms of tubular injury. Curr Opin Crit Care. 2019;25(6):550-557. doi:10.1097/MCC.0000000000000653 PMID: 31483318
+
+---
+
+# IV Fluid Selection: Saline vs Balanced Solutions
+
+## Clinical Setup
+A 65-year-old man admitted for sepsis has received 3 L of normal saline for resuscitation and now develops metabolic acidosis with a serum chloride of 115 mEq/L and worsening creatinine. You consider switching to a balanced crystalloid solution. What evidence guides the choice between saline and balanced fluids?
+
+## Teaching Objectives
+- Compare the effects of normal saline and balanced crystalloid solutions on renal outcomes
+- Apply evidence from clinical trials to fluid resuscitation in critically ill and non-critically ill patients
+
+## Teaching Points
+1. Normal saline contains 154 mEq/L of chloride; large volumes can cause hyperchloremic metabolic acidosis and renal vasoconstriction leading to decreased glomerular filtration rate [Ref 1].
+2. Balanced crystalloid solutions (e.g., lactated Ringer's, Plasma-Lyte) have electrolyte compositions closer to plasma and lower chloride content; they may reduce risk of acute kidney injury and electrolyte disturbances [Ref 1].
+3. In the SALT-ED trial of noncritically ill adults receiving intravenous fluids in the emergency department, balanced crystalloids reduced the incidence of major adverse kidney events within 30 days compared with saline (4.7% vs 5.6%; adjusted odds ratio 0.82) without affecting hospital-free days [Ref 2].
+4. The SMART trial in critically ill patients found a similar absolute risk reduction of 1.1% for major adverse kidney events with balanced fluids compared with saline and no significant difference in mortality, suggesting a modest renal benefit [Ref 3].
+5. Current guidelines suggest using balanced crystalloids for fluid resuscitation in most adults, especially those at risk for kidney injury or requiring large volumes; normal saline remains appropriate for patients with traumatic brain injury or hyponatremia because of its higher sodium content [Ref 1].
+
+## Key Numbers
+- Major adverse kidney events within 30 days: 4.7% with balanced crystalloids vs 5.6% with saline (adjusted OR 0.82) [Ref 2]
+- Absolute risk reduction for AKI in critically ill patients: approximately 1.1% with balanced crystalloids [Ref 3]
+- Normal saline chloride concentration: 154 mEq/L; Plasma-Lyte chloride: 98 mEq/L [Ref 1]
+
+## Teaching Pearl
+Although the absolute risk reduction for kidney injury with balanced fluids is small, the potential benefit and low cost make them the default choice for most resuscitations. However, normal saline remains appropriate in circumstances such as traumatic brain injury, severe hyponatremia or metabolic alkalosis [Ref 1].
+
+## Boards + Bedside Tie-In
+Board questions may focus on trial results comparing saline and balanced solutions. At the bedside, awareness of the modest renal benefits and specific contraindications guides choice of crystalloid therapy in critically ill and emergency patients.
+
+## References
+1. Mercado MG, Smith DK, McConnon ML. Acute kidney injury: diagnosis and management. Am Fam Physician. 2019;100(11):687-694. PMID: 31790176
+2. Self WH, Semler MW, Wanderer JP, et al. Balanced crystalloids versus saline in noncritically ill adults. N Engl J Med. 2018;378(9):819-828. doi:10.1056/NEJMoa1711586 PMID: 29485926
+3. Semler MW, Self WH, Wanderer JP, et al; SMART Investigators. Balanced crystalloids versus saline in critically ill adults. N Engl J Med. 2018;378(9):829-839. doi:10.1056/NEJMoa1711584 PMID: 29485925
+
+---
+
+# Assessing Volume Status at the Bedside
+
+## Clinical Setup
+A 75-year-old woman with chronic heart failure is admitted for weakness and poor oral intake. She appears frail, with dry mucous membranes and mild pedal edema. You need to decide whether she is volume depleted or overloaded before administering fluids or diuretics.
+
+## Teaching Objectives
+- Integrate physical examination, laboratory tests and point-of-care ultrasound (POCUS) to assess volume status
+- Recognize limitations of individual findings and use a multimodal approach for accuracy
+
+## Teaching Points
+1. Traditional physical exam findings include skin turgor, axillary sweat, mucous membrane dryness, orthostatic vital signs, jugular venous distension (JVD), pulmonary crackles and peripheral edema; no single sign is sensitive or specific for volume status [Ref 1].
+2. Jugular venous pressure (JVP) is measured with the patient semi-recumbent at 30-45 degrees; add 5 cm to the vertical height of venous pulsation above the sternal angle. JVP >8 cm H2O suggests elevated central venous pressure (specificity 93-96%), while JVP <5 cm suggests low venous pressure (sensitivity 90%) [Ref 2].
+3. Peripheral edema has low sensitivity for volume overload and may be present in hypoalbuminemia or venous insufficiency; bilateral crackles on lung exam have only approximately 51% sensitivity for pulmonary edema [Ref 2].
+4. Laboratory tests such as serum B-type natriuretic peptide (BNP) and N-terminal pro-BNP aid in diagnosing volume overload (higher levels correlate with elevated filling pressures), but values are less reliable in renal failure or obesity; trending values can guide therapy [Ref 2].
+5. Point-of-care ultrasound assessing the inferior vena cava diameter and collapsibility, lung B-lines and cardiac function provides dynamic information and is increasingly used to complement physical examination for volume assessment [Ref 1].
+
+## Key Numbers
+- JVP >8 cm H2O indicates elevated central venous pressure with specificity approximately 93-96% [Ref 2]
+- JVP <5 cm H2O suggests low central venous pressure with sensitivity approximately 90% [Ref 2]
+- Lung crackles for pulmonary edema have sensitivity approximately 51% [Ref 2]
+
+## Teaching Pearl
+No single clinical sign reliably determines volume status. Combining physical exam findings, laboratory markers and point-of-care ultrasound yields the most accurate assessment and prevents mismanagement of fluids or diuretics [Ref 1].
+
+## Boards + Bedside Tie-In
+Board questions may ask about the significance of JVP measurements or limitations of edema in assessing volume status. In clinical practice, integrating bedside ultrasound into the assessment improves accuracy and guides safe fluid or diuretic therapy.
+
+## References
+1. Miller A, Mandeville J. Predicting and measuring fluid responsiveness with echocardiography. Echo Res Pract. 2016;3(2):G1-G12. doi:10.1530/ERP-16-0008 PMID: 27249550
+2. McGee S, Abernethy WB, Simel DL. Is this patient hypovolemic? JAMA. 1999;281(11):1022-1029. doi:10.1001/jama.281.11.1022 PMID: 10086438
+
+---
+
+# Hypernatremia: Workup and Management
+
+## Clinical Setup
+A 70-year-old nursing home resident with dementia is brought to the hospital for confusion and lethargy. Her serum sodium is 162 mEq/L. She has dry mucous membranes and decreased urine output. What is the appropriate approach to evaluating and managing her hypernatremia?
+
+## Teaching Objectives
+- Identify the underlying cause of hypernatremia and differentiate water deficit from sodium overload
+- Initiate safe correction of hypernatremia while avoiding cerebral edema
+
+## Teaching Points
+1. Hypernatremia almost always reflects free water deficit; classify as hypovolemic, euvolemic or hypervolemic based on volume status. Hypovolemic hypernatremia results from unreplaced fluid losses (e.g., diarrhea, diuretics); euvolemic from diabetes insipidus; hypervolemic from sodium overload (e.g., hypertonic saline, sodium bicarbonate) [Ref 1, 2].
+2. Calculate the free water deficit: Water deficit (L) approximately equals (current Na/140 minus 1) times body weight (kg) times 0.6 (men) or 0.5 (women). Replace half of the deficit in the first 24 hours and the rest over the next 24-48 hours [Ref 2].
+3. Do not lower serum sodium by more than 10-12 mEq/L per 24 hours or 0.5 mEq/L per hour; rapid correction risks cerebral edema and seizures due to cerebral osmolyte accumulation [Ref 2].
+4. Initial therapy for hypovolemic hypernatremia is isotonic fluid (0.9% saline) to restore hemodynamic stability; once euvolemic, switch to hypotonic solutions (e.g., 5% dextrose, half-normal saline) or enteral free water to replace the calculated deficit [Ref 1].
+5. Monitor serum sodium every 2-4 hours and adjust infusion rates accordingly; treat underlying causes such as infection, diuretics or diabetes insipidus (with desmopressin) [Ref 2].
+
+## Key Numbers
+- Maximum sodium correction rate: 10-12 mEq/L or less per 24 hours (0.5 mEq/L or less per hour) [Ref 2]
+- Replace half of calculated water deficit in first 24 hours and remainder over next 24-48 hours [Ref 2]
+- Monitor serum sodium every 2-4 hours during correction [Ref 1]
+
+## Common Pitfall
+Rapid correction of chronic hypernatremia leads to cerebral edema and seizures. Conversely, failing to provide isotonic fluid before free water replacement in hypovolemic hypernatremia can worsen hemodynamic instability and kidney injury. Always restore intravascular volume first and correct sodium slowly [Ref 1, 2].
+
+## Boards + Bedside Tie-In
+Exams often present calculations of free water deficit and ask for appropriate fluid selection. Clinically, careful monitoring and gradual correction prevent neurologic complications while addressing the underlying cause of hypernatremia.
+
+## References
+1. Sterns RH. Disorders of plasma sodium: causes, consequences, and correction. N Engl J Med. 2015;372(1):55-65. doi:10.1056/NEJMra1404489 PMID: 25551526
+2. Adrogué HJ, Madias NE. Hypernatremia. N Engl J Med. 2000;342(20):1493-1499. doi:10.1056/NEJM200005183422006 PMID: 10816188
+
+---
+
+# Hypercalcemia: Workup and Management
+
+## Clinical Setup
+A 58-year-old woman presents with fatigue, constipation and polyuria. Laboratory studies reveal total serum calcium 13.8 mg/dL and ionized calcium 1.7 mmol/L. Her parathyroid hormone (PTH) level is suppressed. How do you determine the cause of her hypercalcemia and initiate appropriate therapy?
+
+## Teaching Objectives
+- Differentiate PTH-mediated from non-PTH-mediated hypercalcemia using targeted laboratory tests
+- Implement acute and chronic management strategies for severe hypercalcemia
+
+## Teaching Points
+1. Confirm hypercalcemia with ionized calcium and adjust total calcium for albumin. Measure intact PTH; elevated or inappropriately normal PTH suggests primary hyperparathyroidism or tertiary hyperparathyroidism (renal failure), whereas suppressed PTH indicates non-PTH-mediated hypercalcemia [Ref 1].
+2. In non-PTH-mediated hypercalcemia, measure PTH-related peptide (PTHrP), 25-hydroxyvitamin D, 1,25-dihydroxyvitamin D and assess for malignancy, granulomatous diseases, thyrotoxicosis or medications (thiazides, lithium) [Ref 1].
+3. Initial treatment includes aggressive isotonic saline hydration (usually 200-300 mL/h adjusted to achieve positive urine output) to correct volume depletion and enhance renal calcium excretion; once euvolemic, loop diuretics can promote calciuresis [Ref 2].
+4. Administer intravenous bisphosphonates (e.g., zoledronic acid 4 mg or pamidronate 60-90 mg) for malignancy-associated hypercalcemia; onset occurs within 48 hours and effect lasts weeks; consider denosumab if refractory or with renal impairment [Ref 2, 3].
+5. Calcitonin (4 IU/kg subcutaneously or intramuscularly every 12 hours) provides rapid, short-term reduction in serum calcium; glucocorticoids (prednisone 20-40 mg daily) are effective for vitamin D-mediated hypercalcemia (sarcoidosis) [Ref 2].
+
+## Key Numbers
+- Saline hydration rate: initiate at 200-300 mL/h to achieve positive fluid balance; adjust for heart failure [Ref 2]
+- Calcitonin dose: 4 IU/kg every 12 hours; tachyphylaxis develops after 48 hours [Ref 2]
+- Zoledronic acid dose: 4 mg IV over 15 minutes; pamidronate: 60-90 mg IV over 2 hours [Ref 2]
+
+## Teaching Pearl
+Always assess PTH level to distinguish PTH-mediated hypercalcemia from malignancy-associated or granulomatous causes. Adequate hydration is the cornerstone of acute management; loop diuretics should only be used after euvolemia is achieved to avoid worsening dehydration [Ref 2].
+
+## Boards + Bedside Tie-In
+Board questions emphasize distinguishing primary hyperparathyroidism from malignancy-related hypercalcemia and the appropriate use of bisphosphonates, calcitonin and hydration. Clinically, timely diagnosis and treatment prevent complications such as arrhythmias, nephrolithiasis and altered mental status.
+
+## References
+1. Bilezikian JP, Khan AA, Silverberg SJ, et al. Evaluation and management of primary hyperparathyroidism: summary statement and guidelines from the Fifth International Workshop. J Bone Miner Res. 2022;37(11):2293-2314. doi:10.1002/jbmr.4677 PMID: 36245251
+2. Carroll MF, Schade DS. A practical approach to hypercalcemia. Am Fam Physician. 2003;67(9):1959-1966. PMID: 12751658
+3. Seisa MO, Nayfeh T, Hasan B, et al. A systematic review supporting the Endocrine Society Clinical Practice Guideline on the treatment of hypercalcemia of malignancy in adults. J Clin Endocrinol Metab. 2023;108(3):585-591. doi:10.1210/clinem/dgac631 PMID: 36545700
+
+---
+
+# Metabolic Acidosis: The Anion Gap Approach
+
+## Clinical Setup
+A 45-year-old man with type 1 diabetes is found unconscious with rapid breathing. His serum sodium is 140 mEq/L, chloride 102 mEq/L and bicarbonate 10 mEq/L. How do you evaluate his metabolic acidosis using the anion gap and delta gap, and what additional tests are needed?
+
+## Teaching Objectives
+- Calculate the anion gap and interpret high- versus normal-gap metabolic acidosis
+- Use the delta gap to identify mixed acid-base disorders and guide further workup
+
+## Teaching Points
+1. The anion gap (AG) is calculated as AG = Na minus (Cl + HCO3); normal range is 8-12 mEq/L. A high AG indicates accumulation of unmeasured acids (lactic acid, ketoacids, toxins), whereas a normal AG (hyperchloremic) acidosis results from bicarbonate loss (diarrhea, renal tubular acidosis) [Ref 1].
+2. Causes of high AG metabolic acidosis can be remembered with the mnemonic "GOLD MARK": glycols (ethylene glycol, propylene glycol), oxoproline (acetaminophen metabolite), L-lactic acidosis, D-lactic acidosis, methanol, aspirin (salicylates), renal failure/rhabdomyolysis, ketoacidosis (diabetic, alcoholic, starvation) and toluene [Ref 1].
+3. The delta gap assesses for mixed disorders: delta AG = (measured AG minus normal AG). Calculate the delta ratio = delta AG / (24 minus HCO3); a ratio 1-2 suggests pure high-AG acidosis, <1 indicates concomitant normal-AG acidosis, and >2 suggests concomitant metabolic alkalosis [Ref 1].
+4. In normal-AG metabolic acidosis, check the urine anion gap (UAG = urine Na + urine K minus urine Cl). A negative UAG (less than minus 20) suggests gastrointestinal bicarbonate loss (diarrhea), whereas a positive UAG (>0) implies renal tubular acidosis due to impaired ammonium excretion [Ref 1].
+5. Management focuses on identifying and treating the underlying cause (e.g., insulin and fluids for diabetic ketoacidosis, dialysis for toxin ingestion); bicarbonate therapy is reserved for severe metabolic acidosis with pH <7.1 in the absence of reversible causes [Ref 2].
+
+## Key Numbers
+- Normal anion gap: 8-12 mEq/L (using sodium only) [Ref 1]
+- Delta ratio: 1-2 indicates pure high-AG acidosis; <1 suggests mixed high- and normal-gap acidosis; >2 suggests concurrent metabolic alkalosis [Ref 1]
+- Urine anion gap: negative (less than minus 20) indicates gastrointestinal bicarbonate loss; positive (>0) suggests renal tubular acidosis [Ref 1]
+
+## Teaching Pearl
+Always calculate the delta ratio when confronted with high anion gap acidosis; it quickly reveals hidden mixed disorders. In normal anion gap acidosis, the urine anion gap differentiates renal from gastrointestinal causes [Ref 1].
+
+## Boards + Bedside Tie-In
+Board questions frequently require calculation of the anion gap and delta ratio to identify coexisting metabolic alkalosis or normal-gap acidosis. Clinically, a systematic approach to metabolic acidosis helps uncover occult ingestions or renal tubular disorders and guides targeted therapy.
+
+## References
+1. Kraut JA, Madias NE. Metabolic acidosis: pathophysiology, diagnosis and management. Nat Rev Nephrol. 2010;6(5):274-285. doi:10.1038/nrneph.2010.33 PMID: 20308999
+2. Berend K, de Vries AP, Gans RO. Physiological approach to assessment of acid-base disturbances. N Engl J Med. 2014;371(15):1434-1445. doi:10.1056/NEJMra1003327 PMID: 25295502

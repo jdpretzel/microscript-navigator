@@ -1,0 +1,502 @@
+# Managing Severe Hyperkalemia
+
+## Clinical Setup
+A 68-year-old man with chronic kidney disease stage IV on lisinopril and spironolactone presents to the emergency department with a serum potassium of 7.2 mEq/L. He is asymptomatic but his electrocardiogram demonstrates peaked T-waves without QRS prolongation. What is the appropriate management strategy?
+
+## Teaching Objectives
+- Recognize when hyperkalemia requires emergent therapy
+- Implement the three-step approach to stabilize, shift, and remove potassium
+
+## Teaching Points
+1. Severe hyperkalemia (K⁺ >6.0 mEq/L or any ECG change) requires immediate treatment. Management occurs in three steps: stabilize the cardiac membrane with intravenous calcium, shift potassium intracellularly, and remove total body potassium through excretion or dialysis [Ref 1].
+2. To stabilize the membrane, administer calcium gluconate 1-2 g IV over 2-3 minutes. Effects begin in 1-3 minutes and last 30-60 minutes; repeat doses may be needed if ECG abnormalities persist. Calcium lowers arrhythmia risk but does not reduce serum potassium [Ref 1].
+3. Insulin and dextrose shift potassium into cells. Give 10 units of regular insulin IV with 25 g of dextrose; expect a 0.5-1.2 mEq/L decrease in 15-30 minutes. Monitor glucose closely to avoid hypoglycemia [Ref 1]. Nebulized albuterol 10-20 mg offers an additive 0.5-1.0 mEq/L reduction but may cause tachycardia [Ref 1].
+4. Definitive removal requires enhancing renal excretion or extracorporeal removal. Loop diuretics increase urinary potassium loss if kidney function allows. Newer potassium binders (patiromer, sodium zirconium cyclosilicate) are safer than older resin agents but act slowly; dialysis is required for end-stage kidney disease or refractory hyperkalemia [Ref 1, Ref 2].
+5. In crush syndrome or rhabdomyolysis, aggressive isotonic fluid resuscitation (goal urine output 200-300 mL/h) helps prevent acute kidney injury and attenuates hyperkalemia. Frequent serum potassium monitoring every 4 hours guides ongoing therapy [Ref 2].
+
+## Key Numbers
+- Potassium >6.0 mEq/L or any ECG change: threshold for emergent therapy; K⁺ >6.5 mEq/L with ECG changes constitutes a medical emergency warranting immediate calcium administration [Ref 1].
+- Regular insulin 10 units IV plus 25 g dextrose reduces serum potassium by roughly 0.5-1.2 mEq/L within 15-30 minutes; hypoglycemia occurs in up to 75 % of patients if dextrose is omitted [Ref 1].
+- Urine output target 200-300 mL/h in crush-related hyperkalemia: achieved by high-volume isotonic fluids to mitigate myoglobin-induced renal tubular injury [Ref 2].
+
+## Common Pitfall
+Relying on sodium polystyrene sulfonate (Kayexalate) for acute hyperkalemia is problematic. It has an unpredictable onset of action (hours to days) and risk of intestinal necrosis; it should not be used for emergent management. Newer binders have improved safety profiles but are still too slow for acute emergencies [Ref 1].
+
+## Boards + Bedside Tie-In
+Examination questions often test recognition of ECG changes and which therapies stabilize membranes versus lower serum potassium. At the bedside, apply the same sequence: administer calcium to buy time, then layer insulin/dextrose and beta-agonists, and arrange for definitive removal via diuretics or dialysis while monitoring for hypoglycemia and rebound hyperkalemia.
+
+## References
+1. Lindner G, Burdmann EA, Clase CM, et al. Acute hyperkalemia in the emergency department: a summary from a Kidney Disease: Improving Global Outcomes conference. Eur J Emerg Med. 2020;27(5):329-337. doi:10.1097/MEJ.0000000000000691 PMID: 32852924
+2. Abu-Zidan FM, Jawas A, Saleh M, et al. Surgical and critical care management of earthquake musculoskeletal injuries and crush syndrome. Turk J Emerg Med. 2024;24(1):44-55. doi:10.1016/j.tjem.2023.08.002 PMID: 38766416
+
+# Sepsis: Recognition and the First Three Hours
+
+## Clinical Setup
+A 75-year-old man with diabetes and chronic obstructive pulmonary disease presents with fever, confusion, tachypnea, hypotension (blood pressure 86/50 mm Hg) and lactate of 4.2 mmol/L. Blood cultures are pending. What interventions should be prioritized during the first three hours?
+
+## Teaching Objectives
+- Identify sepsis and initiate early goal-directed resuscitation
+- Balance fluid resuscitation with avoidance of fluid overload
+
+## Teaching Points
+1. Sepsis is defined as life-threatening organ dysfunction caused by a dysregulated host response to infection. Initial evaluation includes measurement of blood pressure, mental status and lactate. Hypotension or elevated lactate signals sepsis-induced hypoperfusion and necessitates prompt intervention [Ref 1].
+2. Early broad-spectrum antibiotics improve survival. Administer empiric therapy as soon as possible after obtaining cultures; do not delay antibiotics beyond the time needed for culture collection [Ref 1].
+3. Fluid resuscitation is the cornerstone of early management. Current guidelines recommend 30 mL/kg of isotonic crystalloid for hypotension or lactate ≥4 mmol/L. However, observational data indicate that cumulative positive fluid balance is associated with increased mortality; therefore, reassess volume status frequently and individualize further fluid administration [Ref 1, Ref 2].
+4. After the initial bolus, assess hemodynamic response. Target a mean arterial pressure (MAP) of at least 65 mm Hg. If hypotension persists despite adequate fluids, initiate vasopressors (norepinephrine is first-line) and consider invasive hemodynamic monitoring. Avoid excess fluids in patients with cardiogenic or renal limitations [Ref 1, Ref 2].
+5. Concurrent tasks include obtaining blood cultures before antibiotics when feasible, identifying the source of infection (e.g., imaging, bedside examination) and controlling it (e.g., drainage or removal of infected devices). Early source control is as important as resuscitation.
+
+## Key Numbers
+- 30 mL/kg isotonic crystalloid: recommended initial bolus for sepsis-induced hypoperfusion; for an 80 kg patient this equates to 2.4 liters [Ref 1].
+- MAP ≥65 mm Hg: target after fluid resuscitation; persistent MAP <65 despite fluids necessitates vasopressors [Ref 1].
+- Positive fluid balance: observational studies show that each liter of positive balance beyond the initial resuscitation is associated with increased mortality; judicious fluid management improves outcomes [Ref 2].
+
+## Common Pitfall
+Over-resuscitation with fluids without reassessment can lead to pulmonary edema, abdominal compartment syndrome or heart failure exacerbation. After the initial bolus, use dynamic indices (pulse pressure variation, passive leg raise) and bedside ultrasound to guide further fluids, and start vasopressors when appropriate [Ref 2].
+
+## Boards + Bedside Tie-In
+Board questions emphasize elements of the sepsis bundle (fluid resuscitation, antibiotics, lactate measurement) and MAP targets. Clinically, the challenge is balancing aggressive resuscitation with fluid overload risk. Maintaining a structured checklist-cultures, antibiotics, fluids, vasopressors-helps ensure timely interventions.
+
+## References
+1. Jozwiak M, Hamzaoui O, Georger J, et al. Fluid resuscitation during early sepsis: a need for individualization. Minerva Anestesiol. 2018;84(8):987-992. doi:10.23736/S0375-9393.18.12422-9 PMID: 29444562
+2. Tigabu BM, Davari M, Gohari B, et al. Fluid volume, fluid balance and patient outcome in severe sepsis and septic shock. J Crit Care. 2018;48:153-159. doi:10.1016/j.jcrc.2018.08.018 PMID: 30199843
+
+# Shock: Classification and Initial Approach
+
+## Clinical Setup
+A 63-year-old man presents with chest pain, diaphoresis and blood pressure 70/40 mm Hg. He is tachycardic and cool to the touch. The team must determine the type of shock and initiate appropriate therapy. How should he be evaluated and managed?
+
+## Teaching Objectives
+- Differentiate the major classes of shock and their pathophysiology
+- Apply an algorithmic initial approach tailored to the underlying type
+
+## Teaching Points
+1. Shock is defined as inadequate tissue perfusion resulting in cellular dysfunction. It can be categorized into four major types: hypovolemic (volume loss), cardiogenic (pump failure), distributive (systemic vasodilation, e.g., sepsis or anaphylaxis) and obstructive (extracardiac impedance to flow, such as pulmonary embolism or cardiac tamponade). Classification guides targeted therapy [Ref 2].
+2. Hypovolemic shock results from hemorrhage or fluid losses (vomiting, diarrhea, burns). Management focuses on rapid control of bleeding and replacement of intravascular volume with crystalloid and blood products; vasopressors are generally not first-line until volume is restored [Ref 2].
+3. Cardiogenic shock arises from pump failure due to acute myocardial infarction, severe heart failure or arrhythmias. Hemodynamics show low cardiac output and high filling pressures. Initial management includes cautious fluid administration, vasopressors (norepinephrine) and inotropes (dobutamine) while arranging for definitive treatment such as reperfusion or mechanical circulatory support [Ref 1].
+4. Distributive shock, typified by sepsis or anaphylaxis, features profound vasodilation and high cardiac output. Treatment involves aggressive fluid resuscitation, vasopressors to counteract vasodilation and addressing the underlying cause (antibiotics or epinephrine for anaphylaxis). Early recognition improves outcomes [Ref 2].
+5. Obstructive shock is caused by mechanical obstruction to cardiac filling or output. Examples include tension pneumothorax, cardiac tamponade and massive pulmonary embolism. Therapy aims at relieving the obstruction-needle decompression for pneumothorax, pericardiocentesis for tamponade or thrombolytics/embolectomy for pulmonary embolism [Ref 2].
+
+## Key Numbers
+- Shock is generally defined by sustained systolic blood pressure <90 mm Hg or mean arterial pressure <65 mm Hg with signs of hypoperfusion (altered mental status, oliguria, cold extremities) [Ref 3].
+- Cardiogenic shock has a mortality rate exceeding 40 % despite treatment; early revascularization in myocardial infarction reduces mortality and is a mainstay of management [Ref 1].
+- Distributive shock often presents with warm extremities and widened pulse pressure early; persistently low systemic vascular resistance despite fluids may require vasopressor doses escalating beyond 0.1 μg/kg/min of norepinephrine [Ref 1].
+
+## Teaching Pearl
+Use bedside ultrasound to rapidly differentiate types of shock. A "venous tank" view evaluates volume status (inferior vena cava diameter and collapsibility), while cardiac views detect pericardial effusion, right ventricular dilation suggestive of pulmonary embolism or global systolic dysfunction. Incorporating point-of-care ultrasound expedites diagnosis and targeted therapy [Ref 1, Ref 2].
+
+## Boards + Bedside Tie-In
+On exams, classification of shock with associated hemodynamic profiles is frequently tested. At the bedside, rapid recognition prevents reflexive fluid administration in cardiogenic or obstructive shock where excess volume may worsen outcomes. A structured approach-identify type, address immediate life-threats and initiate definitive therapy-bridges theoretical knowledge and clinical practice.
+
+## References
+1. Sarma D, Jentzer JC. Cardiogenic Shock: Pathogenesis, Classification, and Management. Crit Care Clin. 2024;40(1):37-56. doi:10.1016/j.ccc.2023.05.001 PMID: 37973356
+2. Kislitsina ON, Rich JD, Gulati R, et al. Shock - Classification and Pathophysiological Principles of Therapeutics. Curr Cardiol Rev. 2019;15(2):102-113. doi:10.2174/1573403X15666181212125024 PMID: 30543176
+3. Patel S, Holden K, Chang M, et al. Shock. Crit Care Nurs Q. 2022;45(3):225-232. doi:10.1097/CNQ.0000000000000407 PMID: 35617089
+
+# Acute Altered Mental Status: Structured Approach
+
+## Clinical Setup
+A 55-year-old man is found unresponsive by his family. He has a history of alcoholism and poorly controlled diabetes. On arrival, his airway is intact, respirations are 10 breaths per minute, blood pressure is 100/60 mm Hg, heart rate 90 beats per minute and oxygen saturation 89 %. What is the systematic approach to his altered mental status?
+
+## Teaching Objectives
+- Employ a structured evaluation algorithm for acute altered mental status
+- Recognize high-yield reversible causes and implement timely interventions
+
+## Teaching Points
+1. Begin with the ABCs: assess airway, breathing and circulation. Provide supplemental oxygen, secure the airway if the patient cannot protect it and establish intravenous access. Quickly check capillary blood glucose and administer 50 mL of 50 % dextrose if hypoglycemia is present [Ref 2]. Naloxone should be given if opioid overdose is suspected.
+2. Perform a focused neurologic examination including Glasgow Coma Scale, pupillary response and lateralizing signs. Obtain vital signs and laboratory studies (electrolytes, renal and hepatic function, arterial blood gas). Consider broad categories using the mnemonic "AEIOU TIPS": Alcohol, Endocrine/Electrolytes, Infection, Opiates/Oxygen, Uremia, Trauma, Insulin (hypo/ hyperglycemia), Psychosis/Poisoning, Stroke/Structural seizures [Ref 2].
+3. Hyperosmolar hyperglycemic state (HHS) should be suspected when plasma glucose exceeds 600 mg/dL with serum osmolality >320 mOsm/kg and minimal ketosis. Management includes aggressive isotonic fluid resuscitation, insulin therapy and correction of electrolytes. Cerebral edema can be minimized by gradual glucose correction [Ref 3].
+4. Delirium is common in hospitalized patients (15-50 %) and associated with increased mortality. Risk factors include advanced age, polypharmacy and sensory impairment. Management focuses on identifying and reversing precipitants (infection, medications, metabolic disturbances) and employing nonpharmacologic strategies (reorientation, sleep hygiene) [Ref 1].
+5. In alcohol-use disorder or malnutrition, consider Wernicke encephalopathy, characterized by the triad of encephalopathy, oculomotor dysfunction and gait ataxia. Administer thiamine 200 mg IV three times daily before glucose to prevent precipitating Korsakoff syndrome [Ref 4].
+
+## Key Numbers
+- Delirium prevalence: affects 15-50 % of hospitalized older adults and increases mortality and length of stay [Ref 1].
+- HHS diagnostic criteria: blood glucose >600 mg/dL, serum osmolality >320 mOsm/kg and absent or mild ketonemia; mortality ranges from 10-20 % [Ref 3].
+- Wernicke encephalopathy treatment: administer thiamine 200 mg IV three times daily; improvement often begins within hours and should continue for at least three days [Ref 4].
+
+## Teaching Pearl
+Always give thiamine before administering glucose in patients at risk for thiamine deficiency. Glucose without thiamine can precipitate Wernicke encephalopathy or Korsakoff syndrome. Maintain a high index of suspicion in malnourished, alcoholic or bariatric patients [Ref 4].
+
+## Boards + Bedside Tie-In
+Board examinations frequently present undifferentiated coma scenarios requiring immediate bedside actions-check glucose, give naloxone, secure airway-followed by recognition of specific conditions such as HHS or Wernicke. At the bedside, following a structured algorithm prevents omission of reversible causes and ensures timely interventions.
+
+## References
+1. Mattison MLP. Delirium. Ann Intern Med. 2020;173(7):ITC49-ITC64. doi:10.7326/AITC202010060 PMID: 33017552
+2. Erkkinen MG, Berkowitz AL. A Clinical Approach to Diagnosing Encephalopathy. Am J Med. 2019;132(10):1142-1147. doi:10.1016/j.amjmed.2019.07.001 PMID: 31330129
+3. Lovegrove SS, Dubbs SB. Hyperosmolar Hyperglycemic State. Emerg Med Clin North Am. 2023;41(4):687-696. doi:10.1016/j.emc.2023.07.001 PMID: 37758417
+4. Galvin R, Brathen G, Ivashynka A, et al. EFNS guidelines for diagnosis, therapy and prevention of Wernicke encephalopathy. Eur J Neurol. 2010;17(12):1408-1418. doi:10.1111/j.1468-1331.2010.03153.x PMID: 20642790
+
+# The Crashing Patient: First Five Minutes
+
+## Clinical Setup
+You are called to evaluate a 65-year-old inpatient who suddenly becomes unresponsive and bradycardic. The telemetry alarm shows an asystole pattern. What should occur in the first five minutes to stabilize this patient?
+
+## Teaching Objectives
+- Execute a structured approach to the crashing patient emphasizing airway, breathing and circulation
+- Identify reversible causes and prioritize interventions without delay
+
+## Teaching Points
+1. Activate emergency response and assess responsiveness. If the patient is pulseless, begin high-quality chest compressions at a rate of 100-120 per minute and depth of 5-6 cm on the lower half of the sternum. Ensure full chest recoil and minimize interruptions [Ref 1].
+2. Airway and breathing: provide 100 % oxygen via bag-valve-mask and attach monitors (ECG, pulse oximetry, noninvasive blood pressure). Intubation should not delay chest compressions; once an advanced airway is placed, deliver 10 breaths per minute without pausing compressions [Ref 1].
+3. Defibrillation: check the rhythm quickly. For shockable rhythms (ventricular fibrillation or pulseless ventricular tachycardia), deliver a biphasic shock at 200 J and resume compressions immediately. For asystole or pulseless electrical activity, continue compressions and administer epinephrine 1 mg IV every 3-5 minutes while searching for reversible causes [Ref 1].
+4. Systematically evaluate reversible causes using the "Hs and Ts": hypovolemia, hypoxia, hydrogen ion (acidosis), hypo/hyperkalemia, hypothermia, tension pneumothorax, tamponade, toxins, thrombosis (cardiac or pulmonary) and trauma. Treat each cause as rapidly as possible-e.g., needle decompression for tension pneumothorax, pericardiocentesis for tamponade, fluids for hypovolemia [Ref 2].
+5. Assign roles among team members (compressor, airway manager, medication administrator, recorder) and communicate clearly. Rapidly secure intravenous or intraosseous access for drug delivery while preparing for advanced airway management [Ref 2].
+
+## Key Numbers
+- Chest compression rate: 100-120 per minute; depth: 5-6 cm in adults; ratio of compressions to breaths without advanced airway: 30:2 [Ref 1].
+- Epinephrine dosing: 1 mg IV every 3-5 minutes during pulseless arrest; early administration improves return of spontaneous circulation [Ref 1].
+- Reversible causes: remember five Hs (Hypovolemia, Hypoxia, Hydrogen ion [acidosis], Hypo-/hyperkalemia, Hypothermia) and five Ts (Tension pneumothorax, Tamponade, Toxins, Thrombosis, Trauma) as a rapid checklist [Ref 2].
+
+## Common Pitfall
+Delaying chest compressions for airway management or rhythm analysis reduces survival. Prioritize uninterrupted compressions; intubate only after initial cycles and ensure continuous compressions during intubation attempts. Avoid prolonged pulse checks-limit to 10 seconds [Ref 1].
+
+## Boards + Bedside Tie-In
+Boards test adherence to resuscitation algorithms, including compression rate and reversible causes. At the bedside, a structured team approach with clearly assigned roles, immediate CPR and early defibrillation is critical for survival. Familiarity with the Hs and Ts ensures reversible causes are not overlooked while the code continues.
+
+## References
+1. American Heart Association. Highlights of the 2020 American Heart Association Guidelines for CPR and ECC. 2020.
+2. EMCrit/Internet Book of Critical Care. Approach to the Crashing Patient. 2024.
+
+# Approach to Inpatient Hyponatremia
+
+## Clinical Setup
+A 68-year-old man admitted for pneumonia is found to have a sodium of 124 mEq/L, down from 138 mEq/L on admission three days ago. He is alert and euvolemic on examination. How should his hyponatremia be evaluated and managed?
+
+## Teaching Objectives
+- Apply a stepwise algorithm using volume status, serum osmolality and urine studies
+- Avoid complications by adhering to safe correction thresholds
+
+## Teaching Points
+1. Confirm true hypotonic hyponatremia by measuring serum osmolality; values <280 mOsm/kg indicate hypotonic hyponatremia. Next, assess volume status clinically (hypovolemic, euvolemic or hypervolemic) and obtain urine osmolality and urine sodium to narrow the differential [Ref 1].
+2. Hypovolemic hyponatremia (e.g., diuretic use, vomiting) is characterized by clinical volume depletion, high urine osmolality and urine sodium <20 mEq/L; treatment is isotonic saline to restore volume and suppress antidiuretic hormone. Euvolemic hyponatremia often results from the syndrome of inappropriate antidiuresis (SIADH), with urine osmolality >100 mOsm/kg and urine sodium >30 mEq/L; treat with fluid restriction and address underlying triggers [Ref 1].
+3. Hypervolemic hyponatremia occurs in cirrhosis, heart failure or nephrotic syndrome. It presents with edema and ascites; management includes fluid and sodium restriction, loop diuretics and treatment of the underlying condition. Vasopressin receptor antagonists (e.g., tolvaptan) can increase serum sodium but require careful monitoring [Ref 2].
+4. Avoid rapid correction to prevent osmotic demyelination syndrome. For chronic hyponatremia, limit serum sodium increase to 8-10 mEq/L in 24 hours; high-risk patients (malnutrition, alcoholism, liver disease) should be corrected more slowly (4-6 mEq/L per 24 hours) [Ref 1, Ref 2].
+5. Severely symptomatic patients (e.g., seizures, coma) require hypertonic saline (3 % sodium chloride) delivered as 100 mL boluses over 10 minutes, repeated up to two times while monitoring sodium closely. Once symptoms resolve, slow correction according to the limits above [Ref 1].
+
+## Key Numbers
+- Serum osmolality <280 mOsm/kg: defines hypotonic hyponatremia; urine osmolality >100 mOsm/kg suggests impaired water excretion such as SIADH [Ref 1].
+- Correction rate: maximum 8-10 mEq/L per 24 hours for chronic hyponatremia; limit to 4-6 mEq/L per 24 hours in high-risk patients to avoid osmotic demyelination [Ref 1, Ref 2].
+- Hypertonic saline bolus: 100 mL of 3 % NaCl over 10 minutes for severe symptoms, repeated up to two doses with goal of 4-6 mEq/L rise in sodium [Ref 1].
+
+## Common Pitfall
+Obtaining urine studies after starting IV fluids obscures the diagnosis. Always collect urine osmolality and sodium before administering significant volumes of fluid, and document any fluids already given to interpret results correctly [Ref 1].
+
+## Boards + Bedside Tie-In
+Board questions frequently present hyponatremia with serum and urine values, asking for diagnosis or next step. At the bedside, the same algorithm applies but volume assessment may be challenging; when uncertain, a trial of isotonic saline can help distinguish hypovolemic hyponatremia (sodium rises) from SIADH (sodium falls or remains low) [Ref 1].
+
+## References
+1. Kugler JP, Hustead T. Hyponatremia and hypernatremia in the elderly. Am Fam Physician. 2000;61(12):3623-3630. PMID: 10892634
+2. Orman ES, Fortune BE, Vilar G, et al. AGA Clinical Practice Update on the Management of Ascites, Volume Overload, and Hyponatremia in Cirrhosis. Gastroenterology. 2025;168(6):990-1002. PMID: 41114681
+
+# DVT and PE: Risk Stratification Essentials
+
+## Clinical Setup
+A 55-year-old woman presents with acute shortness of breath and pleuritic chest pain. She has unilateral leg swelling and a history of recent knee surgery. Her blood pressure is stable and oxygen saturation is 94 %. How should venous thromboembolism (VTE) risk be stratified and managed?
+
+## Teaching Objectives
+- Apply clinical prediction rules to assess pre-test probability of deep vein thrombosis (DVT) and pulmonary embolism (PE)
+- Determine inpatient versus outpatient management using severity indices
+
+## Teaching Points
+1. For suspected DVT, use the Wells score: assign points for active cancer, paralysis or immobilization, recent bed rest, localized tenderness, swelling of the entire leg, calf diameter difference >3 cm, pitting edema, and previously documented DVT. A score ≥2 indicates moderate to high probability and warrants duplex ultrasonography; a score ≤1 with a negative D-dimer effectively excludes DVT [Ref 3].
+2. For suspected PE, the Wells criteria or the revised Geneva score stratify risk. Wells factors include signs of DVT, heart rate >100 bpm, recent surgery or immobilization, prior PE/DVT, hemoptysis, and malignancy. A score >4 suggests high probability and mandates CT pulmonary angiography; ≤4 combined with a negative D-dimer rules out PE [Ref 1]. The Pulmonary Embolism Rule-out Criteria (PERC) can identify very low-risk patients who require no further testing [Ref 2].
+3. After diagnosis, use the Simplified Pulmonary Embolism Severity Index (sPESI) or Hestia criteria to determine suitability for outpatient management. sPESI assigns one point each for age >80 years, history of cancer, chronic cardiopulmonary disease, heart rate ≥110 bpm, systolic blood pressure <100 mm Hg and oxygen saturation <90 %. A score of 0 predicts <1 % 30-day mortality and supports outpatient anticoagulation; any point ≥1 indicates the need for inpatient monitoring [Ref 6].
+4. The presence of right ventricular dysfunction on echocardiography, elevated cardiac biomarkers (troponin, BNP) or concomitant DVT portends higher risk of early mortality and may warrant thrombolysis or catheter-directed therapy in select patients. Close monitoring in a monitored setting is advised [Ref 6].
+5. For hospitalized or surgical patients, prophylactic measures prevent VTE. Low-molecular-weight heparin 40 mg subcutaneously once daily or unfractionated heparin 5 000 units three times daily reduces incidence by roughly 60 % in medical inpatients. When anticoagulation is contraindicated, use mechanical prophylaxis (intermittent pneumatic compression devices). Early ambulation is essential [Ref 7].
+
+## Key Numbers
+- Wells score for DVT: ≥2 points indicates moderate to high probability; ≤1 point with negative D-dimer excludes DVT in most patients [Ref 3].
+- Simplified PESI score: 0 points predicts <1 % 30-day mortality; ≥1 point is associated with 8-10 % mortality and prompts inpatient care [Ref 6].
+- Prophylactic enoxaparin 40 mg daily reduces VTE by ~60 % in high-risk inpatients; mechanical methods are less effective when used alone [Ref 7].
+
+## Common Pitfall
+Ordering imaging in very low-risk patients without applying the Wells, Geneva or PERC rules leads to unnecessary radiation exposure and false positives. Conversely, failing to recognize high-risk features (e.g., hypotension, right ventricular strain) delays life-saving therapy. Always stratify risk before testing and treat promptly when probability is high [Ref 1, Ref 6].
+
+## Boards + Bedside Tie-In
+Exam questions often require choosing the next test based on a clinical prediction rule. In practice, applying the Wells and sPESI scores streamlines evaluation, minimizes unnecessary imaging and identifies patients appropriate for outpatient treatment. Always reassess risk factors such as cancer, immobilization and prior VTE when determining duration of anticoagulation.
+
+## References
+1. Giordano NJ, Jansson PS, Young MN, et al. Epidemiology, Pathophysiology, Stratification, and Natural History of Pulmonary Embolism. Tech Vasc Interv Radiol. 2017;20(3):135-140. PMID: 29029707
+2. Wenger N, Sebastian T, Murugan R, et al. Pulmonary embolism and deep vein thrombosis: Similar but different. Thromb Res. 2021;198:154-165. PMID: 34454241
+3. Lopez JA, Kearon C, Lee AY. Deep venous thrombosis. Hematology Am Soc Hematol Educ Program. 2004;2004:439-456. PMID: 15561697
+4. Becattini C, Cohen AT, Agnelli G, et al. Risk Stratification of Patients With Acute Symptomatic Pulmonary Embolism Based on Presence or Absence of Lower Extremity DVT. Chest. 2016;150(2):358-365. PMID: 26204122
+5. Kraft CT, Janis JE. Deep Venous Thrombosis Prophylaxis. Clin Plast Surg. 2020;47(3):325-333. PMID: 32448477
+6. Szymanski K, Weber C, Szamosi A, et al. A review of venous thromboembolism for the hospitalist. Postgrad Med. 2025;137(4):558-566. PMID: 39804968
+7. Pribish AM, Secemsky EA, Schmaier AA. Venous Thromboembolism for the Practicing Cardiologist. Cardiol Clin. 2021;39(2):207-224. PMID: 34686267
+
+# Community-Acquired Pneumonia: Severity and Antibiotics
+
+## Clinical Setup
+A 45-year-old man presents with fever, productive cough, pleuritic chest pain and confusion. His respiratory rate is 32 breaths per minute, blood pressure 88/55 mm Hg and oxygen saturation 89 % on room air. What tools and therapies guide management of his community-acquired pneumonia (CAP)?
+
+## Teaching Objectives
+- Utilize severity scoring systems to determine the need for hospitalization and intensive care
+- Select empiric antibiotics based on severity and risk factors
+
+## Teaching Points
+1. Assess severity using validated tools. CURB-65 awards one point each for confusion, urea >7 mmol/L (20 mg/dL), respiratory rate ≥30, blood pressure <90/60 mm Hg and age ≥65. Scores 0-1 suggest outpatient management; score 2 warrants hospital admission; ≥3 or evidence of septic shock or respiratory failure indicates ICU care [Ref 3].
+2. The Pneumonia Severity Index (PSI) incorporates demographics, comorbidities, physical exam findings and laboratory values to stratify into risk classes I-V. Classes I-II (<70 points) are usually managed as outpatients, class III (71-90) may be observed briefly and classes IV-V (>90) require hospitalization [Ref 1].
+3. Empiric therapy depends on comorbidities and disease severity. Outpatients without comorbidities: amoxicillin 1 g three times daily or doxycycline 100 mg twice daily for 5-7 days. Outpatients with comorbidities: amoxicillin-clavulanate 875/125 mg twice daily plus azithromycin or doxycycline, or a respiratory fluoroquinolone alone. Inpatients (non-ICU): intravenous ceftriaxone or ampicillin-sulbactam plus azithromycin, or a respiratory fluoroquinolone. ICU patients: ceftriaxone plus either azithromycin or a fluoroquinolone; add vancomycin or linezolid for MRSA risk and piperacillin-tazobactam for Pseudomonas risk [Ref 1, Ref 3, Ref 5].
+4. Administer antibiotics promptly-ideally within 4 hours of presentation. Once clinical stability is achieved (afebrile, heart rate <100, respiratory rate <24, oxygen saturation >90 % on room air, normal mental status), transition to oral therapy and plan a total course of 5-7 days for uncomplicated CAP [Ref 1].
+5. Identify patients requiring ICU by major criteria (mechanical ventilation or septic shock requiring vasopressors) or minor criteria (respiratory rate ≥30, PaO₂/FiO₂ ≤250, multilobar infiltrates, confusion, uremia, leukopenia, thrombocytopenia, hypothermia, hypotension requiring fluids). Meeting one major or three minor criteria indicates ICU admission [Ref 3].
+
+## Key Numbers
+- CURB-65: 0-1 point (outpatient), 2 points (inpatient), ≥3 points or shock (ICU). Urea threshold is >7 mmol/L (20 mg/dL) [Ref 3].
+- PSI: Classes I-II (<70 points) have <1 % mortality; classes IV-V (>90 points) have mortality 8-30 % and require hospital care [Ref 1].
+- Standard treatment duration: 5-7 days for uncomplicated CAP once patient is afebrile for 48 hours and clinically stable [Ref 1].
+
+## Common Pitfall
+Delaying empiric antibiotics while awaiting imaging or microbiology results increases mortality. Initiate broad-spectrum therapy based on clinical suspicion and refine therapy once culture data and susceptibilities are available [Ref 1].
+
+## Boards + Bedside Tie-In
+Board scenarios frequently ask for the next step when presented with CAP severity scores; memorize CURB-65 cutoffs and major/minor criteria. Clinically, early scoring assists decisions on admission and ICU triage, while knowledge of guideline-recommended empiric regimens ensures appropriate therapy tailored to comorbidities and local resistance patterns.
+
+## References
+1. Lanks CW, Musani AI, Hsia DW. Community-acquired Pneumonia and Hospital-acquired Pneumonia. Med Clin North Am. 2019;103(3):487-501. PMID: 30955516
+2. Rider AC, Frazee BW. Community-Acquired Pneumonia. Emerg Med Clin North Am. 2018;36(4):665-683. PMID: 30296998
+3. Martin-Loeches I, Garduno A, Waterer G, et al. Choosing antibiotic therapy for severe community-acquired pneumonia. Curr Opin Infect Dis. 2022;35(2):147-156. PMID: 35190510
+4. Nair GB, Niederman MS. Updates on community acquired pneumonia management in the ICU. Pharmacol Ther. 2021;217:107663. PMID: 32805298
+5. Cassiere HA, Niederman MS. Community-acquired pneumonia. Dis Mon. 1998;44(3):95-136. PMID: 9858958
+
+# Approach to Fever in the Hospitalized Patient
+
+## Clinical Setup
+A 60-year-old man on post-operative day 3 after colectomy develops a fever of 38.5 °C. He has mild tachycardia but is hemodynamically stable. What systematic approach helps identify the cause and guide management?
+
+## Teaching Objectives
+- Distinguish infectious from non-infectious causes of hospital-acquired fever
+- Use a timing-based framework to guide evaluation and management
+
+## Teaching Points
+1. Fever in hospitalized patients may be infectious (pneumonia, urinary tract infection, surgical site infection, line-associated bloodstream infection) or non-infectious (drug fever, deep vein thrombosis, pulmonary embolism, transfusion reaction). Begin with a focused history and physical examination, review vital signs and examine operative sites, catheters and drains [Ref 1].
+2. Post-operative fever is often categorized by timing: days 1-2 (wind-atelectasis or pneumonia), days 3-4 (water-urinary tract infection), days 5-7 (wound-surgical site infection), days 7-10 (walking-deep vein thrombosis/pulmonary embolism) and any time (wonder drugs-drug fever or transfusion reactions). This mnemonic guides targeted evaluation and prophylactic measures such as incentive spirometry, early ambulation and catheter care [Ref 1].
+3. Evaluate common sources: obtain chest imaging and sputum cultures for pulmonary symptoms, urinalysis and culture for urinary symptoms, and ultrasound of veins for suspected DVT. Inspect central lines for erythema or purulence; if infection is suspected, remove or exchange the catheter and obtain paired blood cultures from catheter and peripheral sites [Ref 1].
+4. Drug fever should be considered when no source is identified despite thorough workup. Features include persistent fever, relative bradycardia, eosinophilia and rash. Common culprits are beta-lactam antibiotics, sulfonamides, anticonvulsants and heparin. Fever typically resolves within 72 hours of discontinuing the offending agent [Ref 2].
+5. Urticaria and fever may indicate an urticarial vasculitis or serum sickness-like reaction. Evaluate for associated arthralgias, lymphadenopathy and complement consumption. Management includes stopping the offending drug and administering antihistamines or corticosteroids when needed [Ref 3].
+
+## Key Numbers
+- Surgical site infections occur in 2-5 % of clean-contaminated surgeries, usually manifesting between post-operative days 5 and 7 [Ref 1].
+- Drug fever accounts for up to 10 % of febrile episodes in hospitalized patients and typically resolves within three days after discontinuation of the offending medication [Ref 2].
+- Central line-associated bloodstream infections occur at approximately 1-2 episodes per 1 000 catheter days; prompt removal or exchange of the catheter reduces morbidity [Ref 1].
+
+## Common Pitfall
+Empirically starting broad-spectrum antibiotics before evaluating for non-infectious causes leads to unnecessary drug exposure and antimicrobial resistance. Always perform a focused assessment, obtain relevant cultures and imaging, and consider non-infectious etiologies before initiating antimicrobial therapy [Ref 1].
+
+## Boards + Bedside Tie-In
+Exams often test the 5 Ws framework and appropriate diagnostic steps. At the bedside, systematically reviewing lines, wounds and medications and using timing to prioritize evaluations helps identify the source quickly and avoids unnecessary treatments. Recognize drug fever and transfusion reactions to prevent misclassification as sepsis.
+
+## References
+1. Dionigi R, Dionigi G, Rovere P, et al. Postoperative fever. Surg Infect (Larchmt). 2006;7(s2):S27-S30. PMID: 16895496
+2. Someko H, Kataoka Y, Obara T. Drug fever: a narrative review. Ann Clin Epidemiol. 2023;5(4):95-106. PMID: 38504950
+3. Micheletti R, Rosenbach M. An approach to the hospitalized patient with urticaria and fever. Dermatol Ther. 2011;24(4):459-471. PMID: 21410608
+
+# C. difficile Infection: Diagnosis and Treatment
+
+## Clinical Setup
+A 64-year-old woman develops profuse watery diarrhea and abdominal cramping on day 7 of a clindamycin course for a dental infection. She has a leukocyte count of 17 000/µL and creatinine of 1.6 mg/dL (baseline 0.9). How should Clostridioides difficile infection (CDI) be diagnosed and treated?
+
+## Teaching Objectives
+- Identify risk factors and implement appropriate diagnostic testing for CDI
+- Apply severity-based treatment strategies and recurrence management
+
+## Teaching Points
+1. Risk factors for CDI include recent antibiotic use (particularly clindamycin, fluoroquinolones and broad-spectrum beta-lactams), hospitalization, advanced age, proton pump inhibitor therapy and immunosuppression. Symptoms typically include ≥3 unformed stools in 24 hours and abdominal pain [Ref 3].
+2. Use a multistep testing algorithm. Only test unformed stool. Start with glutamate dehydrogenase (GDH) antigen and toxin enzyme immunoassay; if results are discordant, perform nucleic acid amplification (PCR) for toxigenic C. difficile. Avoid testing for cure and do not test asymptomatic patients [Ref 4].
+3. Classify disease severity. Non-severe: WBC <15 000/µL and creatinine <1.5 mg/dL; severe: WBC ≥15 000/µL or creatinine ≥1.5 mg/dL; fulminant: hypotension, shock, ileus or megacolon. Initial treatment for non-severe or severe CDI is oral vancomycin 125 mg four times daily for 10 days or fidaxomicin 200 mg twice daily for 10 days. Fulminant CDI requires vancomycin 500 mg orally every six hours plus intravenous metronidazole 500 mg every eight hours, with early surgical consultation [Ref 1, Ref 4].
+4. For a first recurrence, use fidaxomicin if not used initially or a pulsed-tapered vancomycin regimen (125 mg four times daily for 10 days, then 125 mg twice daily for a week, once daily for a week and every 2-3 days for 2-8 weeks). For second or subsequent recurrences, consider fecal microbiota transplantation after an appropriate antibiotic course [Ref 1, Ref 3].
+5. Infection control is critical: wash hands with soap and water (alcohol sanitizers do not kill spores), implement contact isolation and clean the environment with sporicidal agents. Discontinue unnecessary antibiotics and proton pump inhibitors to reduce recurrence risk [Ref 2].
+
+## Key Numbers
+- Fulminant CDI mortality: can exceed 30 %; early high-dose oral vancomycin plus intravenous metronidazole and surgical evaluation reduce mortality [Ref 1].
+- Recurrence rate: 20-25 % after initial treatment; risk increases with each subsequent episode [Ref 1].
+- Fidaxomicin versus vancomycin: fidaxomicin reduces recurrence (≈15 %) compared with vancomycin (≈25 %) but may be limited by cost [Ref 3].
+
+## Common Pitfall
+Testing formed stools or patients without diarrhea leads to overdiagnosis and unnecessary treatment. Always confirm the presence of unexplained diarrhea and test only unformed stool. Avoid treating asymptomatic colonization [Ref 4].
+
+## Boards + Bedside Tie-In
+Exam questions focus on risk factors, testing algorithms and selection of therapy based on severity and recurrence. Clinically, rapid identification and appropriate therapy prevent progression to fulminant disease. Strict infection control measures and judicious antibiotic use reduce transmission and recurrence.
+
+## References
+1. Kelly CR, Fischer M, Allegretti JR, et al. ACG Clinical Guidelines: Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections. Am J Gastroenterol. 2021;116(6):1124-1147. PMID: 34003176
+2. McDonald LC, Gerding DN, Johnson S, et al. Clinical Practice Guidelines for Clostridium difficile Infection in Adults and Children: 2017 Update by IDSA and SHEA. Clin Infect Dis. 2018;66(7):987-994. PMID: 29462280
+3. Cymbal M, Chatterjee A, Hamill L, et al. Management of Clostridioides difficile Infection: Diagnosis, Treatment, and Future Perspectives. Am J Med. 2024;137(4):350-361. PMID: 38508330
+4. Czepiel J, Drozdz M, Pituch H, et al. Clostridium difficile infection: review. Eur J Clin Microbiol Infect Dis. 2019;38(7):1211-1221. PMID: 30945014
+
+# UTI vs Asymptomatic Bacteriuria
+
+## Clinical Setup
+A 70-year-old woman residing in a nursing home is noted to have foul-smelling urine during routine care. She has no dysuria, frequency, fever or flank pain. A screening urinalysis shows pyuria and the urine culture grows >100 000 CFU/mL of Escherichia coli. Should this be treated?
+
+## Teaching Objectives
+- Distinguish true urinary tract infection (UTI) from asymptomatic bacteriuria
+- Apply evidence-based indications for treatment of bacteriuria
+
+## Teaching Points
+1. Symptomatic UTI requires both bacteriuria and symptoms such as dysuria, frequency, urgency, suprapubic pain, hematuria, flank pain or fever. Asymptomatic bacteriuria is defined as ≥10⁵ CFU/mL of a uropathogen in a urine specimen (two consecutive specimens in women, one in men) without urinary symptoms [Ref 3].
+2. Treatment of asymptomatic bacteriuria is recommended only in specific situations: pregnancy (because of risk of pyelonephritis and preterm birth), prior to urologic procedures that involve mucosal bleeding and in renal transplant recipients within the first month post-transplant. Treatment typically involves a 4-7-day course of a narrow-spectrum antibiotic based on culture sensitivity [Ref 2, Ref 6].
+3. Do not treat asymptomatic bacteriuria in catheterized patients, the elderly in long-term care, patients with diabetes or spinal cord injury. Evidence shows no reduction in complications or mortality with treatment, but harms include Clostridioides difficile infection and antimicrobial resistance [Ref 3].
+4. Diagnostic evaluation of suspected UTI includes obtaining a midstream clean-catch urine culture and urinalysis. Pyuria is common in older adults and catheterized patients and is not diagnostic of infection. In symptomatic catheter-associated UTI, a threshold of ≥10³ CFU/mL is considered significant; for non-catheterized symptomatic cystitis, ≥10⁵ CFU/mL is used [Ref 6].
+5. When symptoms are present, choose empiric antibiotics based on local resistance patterns. For uncomplicated cystitis, first-line agents include nitrofurantoin 100 mg twice daily for 5 days, trimethoprim-sulfamethoxazole 160/800 mg twice daily for 3 days (if local resistance <20 %) or single-dose fosfomycin 3 g. Pyelonephritis or complicated UTIs require longer courses (7-14 days) with agents such as fluoroquinolones or third-generation cephalosporins [Ref 6].
+
+## Key Numbers
+- Asymptomatic bacteriuria prevalence: up to 50 % in women in long-term care facilities; treatment does not improve outcomes [Ref 3].
+- Diagnostic thresholds: ≥10⁵ CFU/mL in a clean-catch specimen defines significant bacteriuria; ≥10³ CFU/mL is used for symptomatic catheter-associated UTI [Ref 6].
+- Duration of therapy: 3-5 days for uncomplicated cystitis; 7-14 days for pyelonephritis or complicated infections [Ref 6].
+
+## Common Pitfall
+Treating positive urine cultures in asymptomatic patients leads to unnecessary antibiotic use, adverse drug events and increased resistance. Always correlate culture results with clinical symptoms before initiating therapy [Ref 3].
+
+## Boards + Bedside Tie-In
+Exams often ask when to treat asymptomatic bacteriuria-remember that only pregnant women, patients undergoing invasive urologic procedures and early post-renal transplant recipients require therapy. At the bedside, avoid ordering urine cultures for non-specific changes in urine odor or color and focus on symptomatic assessment to guide management.
+
+## References
+1. Geerlings SE. Clinical Presentations and Epidemiology of Urinary Tract Infections. Microbiol Spectr. 2016;4(5). PMID: 27780014
+2. Ansaldi Y, Martinez de Tejada Weber B. Urinary tract infections in pregnancy. Clin Microbiol Infect. 2023;29(10):1205-1211. PMID: 36031053
+3. Gupta K, Grigoryan L, Trautner B. Urinary Tract Infection. Ann Intern Med. 2017;167(7):ITC49-ITC64. PMID: 28973215
+4. Czajkowski K, Bros-Konopielko M, Teliga-Czajkowska J. Urinary tract infection in women. Prz Menopauzalny. 2021;20(4):194-198. PMID: 33935619
+5. Foxman B. Urinary tract infection syndromes. Infect Dis Clin North Am. 2014;28(1):1-13. PMID: 24484571
+6. Al Lawati H, Blair BM, Larnard J. Urinary Tract Infections: Core Curriculum 2024. Am J Kidney Dis. 2024;83(4):535-548. PMID: 37906240
+
+# Multimodal Pain Management in the Inpatient Setting
+
+## Clinical Setup
+A 60-year-old man is two days post-total knee arthroplasty and complains of severe pain rated 8/10 despite intermittent morphine doses. He is drowsy and hesitant to participate in physical therapy. How can his pain be managed more effectively?
+
+## Teaching Objectives
+- Implement multimodal analgesia to improve pain control and reduce opioid requirements
+- Balance efficacy with safety by considering patient comorbidities and monitoring adverse effects
+
+## Teaching Points
+1. Multimodal analgesia uses combinations of analgesics with different mechanisms-acetaminophen, non-steroidal anti-inflammatory drugs (NSAIDs), gabapentinoids, local anesthetics, NMDA receptor antagonists and opioids-to achieve synergistic pain relief and decrease opioid consumption [Ref 1]. Scheduled non-opioid analgesics form the foundation of therapy.
+2. Administer acetaminophen 1,000 mg every 6 hours (maximum 4 g/day; reduce to 2-3 g/day in hepatic impairment) to provide baseline analgesia. Add NSAIDs or COX-2 inhibitors if renal function and bleeding risk allow; limit duration to 3-5 days and avoid in creatinine clearance <30 mL/min [Ref 3].
+3. Regional techniques provide targeted analgesia with opioid-sparing effects. Peripheral nerve blocks (e.g., femoral or adductor canal block for knee surgery) and neuraxial analgesia (epidural or spinal) reduce pain scores and facilitate early mobilization. Continuous catheter techniques allow titratable dosing but require monitoring for hypotension and motor weakness [Ref 6].
+4. Adjunct medications such as gabapentin or pregabalin decrease central sensitization and lower opioid requirements but may cause dizziness or sedation. Ketamine infusions at subanesthetic doses (0.1-0.5 mg/kg/h) provide analgesia and are useful in opioid-tolerant patients; consensus guidelines recommend continuous monitoring for psychomimetic effects and hemodynamic changes [Ref 4].
+5. Incorporate nonpharmacologic interventions-ice, heat, transcutaneous electrical nerve stimulation, physical therapy, psychological support and relaxation techniques-to enhance pain control and improve functional outcomes. Tailor the regimen to the patient's comorbidities, renal and hepatic function and risk of delirium [Ref 2, Ref 5].
+
+## Key Numbers
+- Acetaminophen: maximum 4,000 mg/day; reduce to 2,000-3,000 mg/day in liver disease [Ref 3].
+- Ketamine infusion: analgesic dosing 0.1-0.5 mg/kg/h reduces opioid requirements without significant respiratory depression [Ref 4].
+- NSAIDs: contraindicated in creatinine clearance <30 mL/min and in patients at high risk of gastrointestinal bleeding; when used, limit to 3-5 days [Ref 3].
+
+## Common Pitfall
+Relying solely on opioids leads to oversedation, respiratory depression and delirium. Incorporating scheduled non-opioid analgesics and regional techniques reduces opioid requirements and improves functional recovery [Ref 3, Ref 6].
+
+## Boards + Bedside Tie-In
+Exams may test knowledge of multimodal pain regimens and safe dosing. At the bedside, opioid-sparing strategies enable early mobilization and rehabilitation after surgery. Regularly reassess pain control and adjust the regimen based on efficacy and adverse effects.
+
+## References
+1. Joshi GP. Enhanced recovery pathways for ambulatory surgery. Curr Opin Anaesthesiol. 2020;33(6):727-734. PMID: 33002957
+2. Wally MK, Hsu JR, Seymour RB. Musculoskeletal Pain Management and Patient Mental Health and Well-being. J Orthop Trauma. 2022;36(suppl 1):S13-S19. PMID: 36121327
+3. Czernicki M, Kunnumpurath S, Tomasz H, et al. Perioperative Pain Management in the Critically Ill Patient. Curr Pain Headache Rep. 2019;23(4):28. PMID: 30977001
+4. Schwenk ES, Viscusi ER, Bhatia A, et al. Consensus Guidelines on the Use of Intravenous Ketamine Infusions for Acute Pain Management. Reg Anesth Pain Med. 2018;43(5):456-466. PMID: 29870457
+5. Al-Saidi I, Russell A, Dizdarevic A. The Acute Perioperative Pain Service: Impact, Organization, and Future Directions. Curr Pain Headache Rep. 2023;27(6):563-570. PMID: 37354296
+6. Baratta JL, Deiling B, Domino KB, et al. Total joint replacement in ambulatory surgery. Best Pract Res Clin Anaesthesiol. 2023;37(2):197-212. PMID: 37929822
+
+# Goals of Care Conversations: Framework
+
+## Clinical Setup
+A 68-year-old man with metastatic lung cancer is admitted for pneumonia. He is uncertain about his prognosis and has not completed an advance directive. How should the resident initiate a goals-of-care conversation?
+
+## Teaching Objectives
+- Use structured communication frameworks to explore patient values and preferences
+- Align medical recommendations with patient goals and document the conversation
+
+## Teaching Points
+1. Begin by assessing the patient's understanding of his illness and asking permission to discuss future care. Use open-ended questions to explore his values, fears and what matters most to him. Clarify who should be involved in decision making (family, surrogate) [Ref 1].
+2. Apply structured communication tools such as "Ask-Tell-Ask" or the Serious Illness Conversation Guide. Ask about the patient's goals and understanding, tell information about prognosis in clear language and then ask for his reaction and questions. Use silence and reflective statements to allow processing [Ref 1, Ref 3].
+3. Respond empathetically to emotions using the NURSE mnemonic-Name the emotion, Understand its source, Respect the patient's experience, Support the patient and Explore further. Acknowledge feelings explicitly and avoid medical jargon [Ref 3].
+4. Align recommendations with the patient's values. Discuss options including disease-directed treatments, palliative care, hospice and life-sustaining interventions (resuscitation, mechanical ventilation). Emphasize that decisions can be revisited and that the goal is to support his priorities and quality of life [Ref 1, Ref 5].
+5. Document the conversation in the medical record, including the patient's goals, code status and surrogate decision maker. Communicate the plan to the interprofessional team to ensure continuity. Revisit the conversation periodically as the disease evolves [Ref 5].
+
+## Key Numbers
+- Structured communication interventions improve documentation of goals-of-care conversations by 15-20 % and reduce unwanted aggressive treatments by approximately one-third [Ref 2].
+- Up to 70 % of seriously ill patients wish to discuss prognosis, but fewer than half report having had such a conversation; using a guide increases the likelihood of these discussions and concordance with preferences [Ref 2].
+- Use of the Serious Illness Conversation Guide has been associated with increased hospice utilization and a 33 % reduction in aggressive end-of-life care [Ref 4].
+
+## Teaching Pearl
+Asking, "What are you hoping for?" and "What are you worried about?" can open space for patients to share their priorities and fears. These questions anchor the conversation in the patient's values before discussing specific interventions [Ref 3].
+
+## Boards + Bedside Tie-In
+Board questions often test frameworks like SPIKES, Ask-Tell-Ask and NURSE. At the bedside, practicing structured conversations and empathic responses improves patient satisfaction, ensures care aligns with goals and reduces clinician burnout.
+
+## References
+1. Bernacki RE, Block SD. Communication about serious illness care goals: a review and synthesis of best practices. JAMA Intern Med. 2014;174(12):1994-2003. PMID: 25330167
+2. Ryan RE, Connolly M, Jeong W, et al. Interventions for interpersonal communication about end of life care between health practitioners and affected people. Cochrane Database Syst Rev. 2022;4:CD013665. PMID: 35802350
+3. Chen W, Chung JOK, Wang Y, et al. End-of-life communication strategies for healthcare professionals: A scoping review. Palliat Med. 2023;37(10):1357-1370. PMID: 36349371
+4. Coulter A, Entwistle VA, Stewart M, et al. Personalised care planning for adults with chronic or long-term health conditions. Cochrane Database Syst Rev. 2015;3:CD010523. PMID: 25733495
+5. Comer A, Fettig L, Torke AM. Identifying Goals of Care. Med Clin North Am. 2020;104(3):435-445. PMID: 32773044
+6. VitalTalk. Serious Illness Conversation Guide. 2023.
+
+# Perioperative Medicine Essentials
+
+## Clinical Setup
+A 60-year-old man with hypertension and type 2 diabetes is scheduled for an elective colectomy. He can climb two flights of stairs without symptoms. What preoperative assessment and perioperative strategies should be employed?
+
+## Teaching Objectives
+- Conduct comprehensive preoperative risk assessment using validated tools
+- Implement evidence-based perioperative management including fluid therapy and enhanced recovery
+
+## Teaching Points
+1. Evaluate surgical risk based on the procedure, patient comorbidities and functional status. Use the Revised Cardiac Risk Index (RCRI): one point each for high-risk surgery, history of ischemic heart disease, heart failure, cerebrovascular disease, insulin-dependent diabetes and creatinine >2 mg/dL. Scores 0-1 indicate <1 % risk of major cardiac events; ≥2 points warrant further assessment and optimization (e.g., stress testing, beta-blocker adjustment) [Ref 5].
+2. Assess functional capacity. Patients able to achieve >4 metabolic equivalents (e.g., climbing stairs) generally do not need further cardiac testing. Continue beta-blockers and statins, hold ACE inhibitors and angiotensin receptor blockers on the day of surgery to reduce intraoperative hypotension, and achieve tight glycemic control with target HbA1c <7.5 % [Ref 5, Ref 2].
+3. Optimize perioperative fluid management. Balanced crystalloids are preferred over normal saline; goal-directed fluid therapy guided by dynamic measures (stroke volume variation, pulse pressure variation) reduces post-operative complications. Avoid both hypovolemia and fluid overload; monitor urine output and hemodynamics closely [Ref 4].
+4. Implement enhanced recovery after surgery (ERAS) protocols: permit clear liquids up to 2 hours and light meals up to 6 hours before anesthesia, administer preoperative carbohydrate drinks, use multimodal analgesia, minimize opioid use, encourage early mobilization and initiate early enteral nutrition. These interventions shorten hospital stay and decrease complications [Ref 1, Ref 3].
+5. Address nutrition and metabolic support. Evaluate nutritional status and provide protein supplementation for malnourished patients; in bariatric surgery, follow guidelines for perioperative nutrition, including vitamin supplementation. Prehabilitation (exercise, inspiratory muscle training, smoking cessation) improves postoperative outcomes [Ref 2, Ref 3].
+
+## Key Numbers
+- RCRI: 0-1 points corresponds to <1 % risk of cardiac complications; ≥2 points elevates risk and merits additional evaluation [Ref 5].
+- Fasting guidelines: clear liquids permitted up to 2 hours and solid foods up to 6 hours before anesthesia; prolonged fasting increases insulin resistance [Ref 3].
+- Balanced crystalloid use: replacing saline with balanced solutions reduces postoperative acute kidney injury and mortality by approximately 1-2 % [Ref 4].
+
+## Teaching Pearl
+Prehabilitation-including aerobic exercise, inspiratory muscle training and nutrition optimization-improves functional capacity and reduces postoperative complications. Encourage patients to engage in prehabilitation for several weeks before elective surgery [Ref 3].
+
+## Boards + Bedside Tie-In
+Board questions often test RCRI components and fasting guidelines. At the bedside, applying goal-directed fluid therapy and ERAS protocols improves outcomes and patient satisfaction. Optimizing comorbidities and nutritional status preoperatively ensures safer surgeries.
+
+## References
+1. Joshi GP. Enhanced recovery pathways for ambulatory surgery. Curr Opin Anaesthesiol. 2020;33(6):727-734. PMID: 33002957
+2. Mechanick JI, Apovian C, Brethauer S, et al. Clinical Practice Guidelines for the Perioperative Nutrition, Metabolic, and Nonsurgical Support of Patients Undergoing Bariatric Procedures - 2019 Update. Endocr Pract. 2019;25(12):1346-1359. PMID: 31682518
+3. Afonso AM, Tokita HK, Mavarez VP, et al. Enhanced Recovery Programs in Outpatient Surgery. Anesthesiol Clin. 2019;37(4):647-660. PMID: 31047126
+4. Ostermann M, Auzinger G, Sharples P, et al. Perioperative fluid management: evidence-based consensus recommendations. Br J Anaesth. 2024;132(6):956-968. PMID: 39341776
+5. Lamperti M, Romero CS, Cristina V, et al. Preoperative assessment of adults undergoing elective noncardiac surgery: Updated guidelines. Eur J Anaesthesiol. 2025;42(1):1-13. PMID: 39492705
+6. ACC/AHA. 2014 ACC/AHA Guideline on Perioperative Cardiovascular Evaluation and Management. 2014.
+7. American College of Surgeons. ACS NSQIP Surgical Risk Calculator. 2024.
+
+# Safe Discharge Planning Principles
+
+## Clinical Setup
+A 70-year-old woman with heart failure and diabetes is recovering from pneumonia and is ready for discharge. She lives alone and her daughter works full-time. What steps are necessary to ensure a safe transition home?
+
+## Teaching Objectives
+- Identify key components of comprehensive discharge planning
+- Incorporate social determinants and medication reconciliation into discharge practices
+
+## Teaching Points
+1. Initiate discharge planning at admission by assessing medical stability, cognitive function, mobility, home environment and caregiver support. Engage an interprofessional team-case managers, social workers, physical and occupational therapists-to identify needs and arrange home services, durable medical equipment and transportation [Ref 1, Ref 4].
+2. Perform meticulous medication reconciliation using validated tools (e.g., MARQUIS) to compare pre-admission medications with in-hospital prescriptions. Address duplications, omissions and potential interactions. Provide patients with an updated medication list and clear verbal and written instructions [Ref 2].
+3. Evaluate social determinants of health such as financial constraints, health literacy, food security and access to care. Connect patients to community resources, home health, Meals on Wheels or transportation services, and involve family or caregivers in education sessions [Ref 1].
+4. Schedule follow-up appointments before discharge and ensure they are within appropriate timeframes (e.g., within 7 days for heart failure). Use teach-back to confirm understanding of discharge instructions including symptom monitoring, wound care and emergency contacts [Ref 3].
+5. Implement structured discharge programs such as the AHRQ Project RED or transitional care protocols. These programs standardize education, medication reconciliation and follow-up communication and have been shown to reduce 30-day readmissions and improve patient satisfaction [Ref 4, Ref 5].
+
+## Key Numbers
+- Approximately 20 % of Medicare beneficiaries are readmitted within 30 days; comprehensive discharge programs can reduce readmissions by about 20 % [Ref 4].
+- Medication discrepancies are found in up to 60 % of discharge medication lists; systematic reconciliation significantly lowers adverse drug events [Ref 2].
+- Early follow-up for heart failure (within 7 days) decreases 30-day readmissions by approximately 2-3 % [Ref 3].
+
+## Teaching Pearl
+Involving caregivers in discharge planning and using the teach-back method ensures comprehension, enhances adherence and reduces readmissions. Provide written instructions in plain language and encourage questions [Ref 1].
+
+## Boards + Bedside Tie-In
+Board questions highlight medication reconciliation and the impact of social determinants on readmissions. At the bedside, beginning discharge planning early and coordinating with an interprofessional team help ensure safe transitions. Clear documentation of the plan and communication with outpatient providers support continuity of care.
+
+## References
+1. Hudson T. The Role of Social Determinates of Health in Discharge Practices. Nurs Clin North Am. 2021;56(3):319-329. PMID: 34366157
+2. Xiao S, Tourangeau A, Reay T, et al. Discharge planning in mental healthcare settings: A review and concept analysis. Int J Ment Health Nurs. 2019;28(5):1059-1072. PMID: 31039293
+3. Rajesh A, Kovacik R, Luther S, et al. A comprehensive review of inpatient heart failure management for the hospitalist. Postgrad Med. 2025;137(4):454-467. PMID: 40332986
+4. Aguilera C, Wong G, Wadhwa R, et al. Patient outcomes after implementation of transitional care protocols in elective neurosurgery. Neurosurg Rev. 2024;47(3):455-465. PMID: 39060496
+5. Rameli PM, Rajendran N. Outcomes of complex discharge planning in older adults with complex needs. J Int Med Res. 2022;50(8):3000605211121140. PMID: 35903858
+6. Anderson N, Narvey M. Discharge planning of the preterm infant. Paediatr Child Health. 2022;27(4):222-228. PMID: 35599674
+7. Kotronias RA, Teitelbaum M, Fan SC, et al. Early Versus Standard Discharge After Transcatheter Aortic Valve Replacement. JACC Cardiovasc Interv. 2018;11(12):1124-1134. PMID: 30190065
+8. Agency for Healthcare Research and Quality. Project RED (Re-Engineered Discharge) Toolkit. 2023.
+9. Society of Hospital Medicine. MARQUIS Toolkit for Medication Reconciliation. 2021.

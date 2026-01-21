@@ -1,0 +1,497 @@
+# NSTEMI vs STEMI: Recognition and Initial Steps
+
+## Clinical Setup
+A 64-year-old man with diabetes presents with crushing chest pain radiating to his left arm, hypotension (100/64 mm Hg) and diaphoresis. His ECG shows ST-segment elevations in leads II, III and aVF with troponin pending. What initial steps should be taken and how do we distinguish STEMI from NSTEMI?
+
+## Teaching Objectives
+- Distinguish STEMI from NSTEMI based on ECG criteria and biomarker patterns
+- Initiate evidence-based first steps for suspected acute coronary syndrome
+
+## Teaching Points
+1. A STEMI is defined by new ST-segment elevations at the J point in at least two contiguous leads (≥ 1 mm in most leads or ≥ 2 mm in V2-V3 for men ≥40 yr and ≥ 1.5 mm in V2-V3 for women) or new left bundle branch block with ischemic symptoms; NSTEMI shows ischemic symptoms and positive troponin without diagnostic ST elevation. [Ref 1]
+2. Initial management for all suspected ACS includes prompt chewing of aspirin (162–325 mg), sublingual nitroglycerin for persistent chest pain (avoid if hypotensive or suspect right ventricular infarction), supplemental oxygen only if SpO₂ <90 %, and morphine for refractory pain. [Ref 1]
+3. For STEMI, immediate reperfusion is critical; perform emergent percutaneous coronary intervention (PCI) within 90 min of first medical contact or administer fibrinolysis within 30 min if PCI unavailable. NSTEMI patients are risk-stratified for early invasive versus conservative management based on ECG changes, troponin elevation and clinical risk scores. [Ref 2]
+4. Administer anticoagulation (unfractionated heparin or enoxaparin) and add a P2Y₁₂ inhibitor (ticagrelor or clopidogrel) as early as possible; avoid prasugrel in patients with prior stroke or TIA. [Ref 3]
+5. Obtain serial ECGs and troponins to detect evolving ischemia; transfer immediately to a PCI-capable center if STEMI criteria are met or high-risk NSTEMI features are present. [Ref 2]
+
+## Key Numbers
+- ST-segment elevation ≥ 1 mm in two contiguous leads (or ≥ 2 mm in V2-V3 for men ≥ 40 yr, ≥ 1.5 mm in V2-V3 for women) defines STEMI. [Ref 1]
+- For STEMI, door-to-balloon time target is ≤ 90 minutes; door-to-needle time for fibrinolysis is ≤ 30 minutes. [Ref 2]
+- Troponin elevation above the 99th percentile upper reference limit with rising or falling pattern confirms myocardial injury and distinguishes NSTEMI from unstable angina. [Ref 3]
+
+## Common Pitfall
+Delays in reperfusion occur when STEMI is misdiagnosed as NSTEMI or when ST-elevations are subtle. Re-examine the ECG for reciprocal changes and repeat within 10 minutes if symptoms persist; any diagnostic uncertainty should err toward activating the cath lab. [Ref 2]
+
+## Boards + Bedside Tie-In
+On exams, STEMI patients require emergent reperfusion therapy whereas NSTEMI patients need risk-stratified invasive management. At the bedside, using a structured approach (rapid ECG interpretation, immediate antiplatelet therapy and anticoagulation, and timely cath lab activation) can improve survival.
+
+## References
+1. Collet J-P, Thiele H, Barbato E, et al. 2020 ESC Guidelines for the management of acute coronary syndromes in patients presenting without persistent ST-segment elevation. *Eur Heart J.* 2021;42(14):1289-1367. doi:10.1093/eurheartj/ehaa575 PMID: 32860058.
+2. Ibanez B, James S, Agewall S, et al. 2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation. *Eur Heart J.* 2018;39(2):119-177. doi:10.1093/eurheartj/ehx393 PMID: 28886621.
+3. Amsterdam EA, Wenger NK, Brindis RG, et al. 2014 AHA/ACC Guideline for the Management of Patients With Non–ST-Elevation Acute Coronary Syndromes. *J Am Coll Cardiol.* 2014;64(24):e139-e228. doi:10.1016/j.jacc.2014.09.017 PMID: 25260718.
+
+---
+
+# Chest Pain Risk Stratification Tools
+
+## Clinical Setup
+A 55-year-old woman arrives in the emergency department with intermittent chest discomfort for the past 4 hours. Her vitals are stable, ECG shows non-specific ST-T changes and the initial troponin is normal. How should we stratify her risk for major adverse cardiac events and decide on disposition?
+
+## Teaching Objectives
+- Utilize validated risk scores to triage patients with suspected ACS
+- Interpret score results to guide testing and disposition decisions
+
+## Teaching Points
+1. The TIMI (Thrombolysis in Myocardial Infarction) risk score uses seven variables (age ≥65 yr, ≥3 CAD risk factors, known CAD with ≥50 % stenosis, aspirin use in the past 7 days, severe angina, ST deviation ≥0.5 mm, and elevated cardiac markers) to estimate 14-day risk of death/MI; scores ≥5 indicate high risk requiring early invasive strategy. [Ref 1]
+2. The HEART score incorporates History, ECG, Age, Risk factors and initial Troponin; each component scores 0–2 points. HEART scores 0–3 indicate low risk (<2 % MACE), 4–6 moderate risk (~12 %) and ≥7 high risk (>50 %); low-risk patients may be discharged with outpatient follow-up. [Ref 2]
+3. The GRACE score (Global Registry of Acute Coronary Events) predicts in-hospital mortality using age, heart rate, systolic BP, creatinine, Killip class, cardiac arrest at admission, ST deviation and biomarkers; high scores (>140) warrant intensive therapy and early angiography (not needed for routine ED use but helpful in inpatient risk stratification). [Ref 1]
+4. Risk scores should be calculated before giving anti-ischemic therapy to avoid skewed troponin values; combine score results with clinical judgement, ongoing chest pain and dynamic ECG changes to decide on observation versus admission. [Ref 2]
+5. Patients deemed low risk by HEART or TIMI scores and with two negative troponins (3 hours apart) can be safely discharged with close follow-up; moderate/high-risk patients need admission, telemetry and cardiology evaluation. [Ref 2]
+
+## Key Numbers
+- TIMI score ≥5 predicts ~20 % risk of death/MI at 14 days; scores 0–1 confer <5 % risk. [Ref 1]
+- HEART score 0–3 corresponds to ~1.7 % risk of MACE, 4–6 to ~12 % and ≥7 to ~50 %. [Ref 2]
+- GRACE score >140 suggests in-hospital mortality ≥8 %; <109 implies mortality <1 %. [Ref 1]
+
+## Teaching Pearl
+Risk scores complement but do not replace clinician judgement. A reassuring score may still miss atypical presentations (e.g., young women, diabetics) and cannot account for dynamic changes; repeat assessment is crucial. [Ref 2]
+
+## Boards + Bedside Tie-In
+Exams often present chest pain cases requiring selection of risk tools and interpretation. At the bedside, using the HEART or TIMI score helps standardize decision making, reduces unnecessary admissions, and ensures high-risk patients receive timely interventions.
+
+## References
+1. Antman EM, Cohen M, Bernink PJ, et al. The TIMI risk score for unstable angina/non–ST elevation MI. *JAMA.* 2000;284(7):835-842. doi:10.1001/jama.284.7.835 PMID: 10938172.
+2. Backus BE, Six AJ, Kelder JC, et al. The HEART score for the assessment of patients with chest pain in the emergency department: a multinational validation study. *Crit Pathw Cardiol.* 2013;12(3):121-126. doi:10.1097/HPC.0b013e31828b327e PMID: 23892941.
+
+---
+
+# Antiplatelet and Anticoagulation in ACS
+
+## Clinical Setup
+A 68-year-old man with chest pressure and dynamic inferior ST-segment depressions is diagnosed with NSTEMI. After giving aspirin and nitrates, you consider additional antiplatelet and anticoagulant therapy. What agents should be selected and when?
+
+## Teaching Objectives
+- Select appropriate antiplatelet regimens for acute coronary syndrome
+- Choose and monitor anticoagulants based on patient risk and invasive strategy
+
+## Teaching Points
+1. All patients with ACS should receive non-enteric-coated aspirin 162–325 mg as soon as possible, followed by daily aspirin 81 mg indefinitely. [Ref 1]
+2. A P2Y₁₂ inhibitor (ticagrelor preferred, or clopidogrel/prasugrel) should be added to aspirin for dual therapy; ticagrelor 180 mg loading then 90 mg twice daily reduces ischemic events compared with clopidogrel. Prasugrel is given only if PCI is planned and is contraindicated in prior stroke/TIA. [Ref 2]
+3. In NSTE-ACS, anticoagulation options include unfractionated heparin, low-molecular-weight heparin (enoxaparin 1 mg/kg twice daily) or the factor Xa inhibitor fondaparinux; choose unfractionated heparin if early invasive strategy is planned due to short half-life and reversibility. [Ref 1]
+4. For STEMI treated with fibrinolysis, adjunct anticoagulation with heparin or enoxaparin for 48 hours (or until PCI) is recommended; avoid routine full-dose anticoagulation beyond hospital discharge. [Ref 3]
+5. Duration of dual antiplatelet therapy after PCI is generally 12 months; shorter courses (3–6 months) may be considered in high-bleeding-risk patients while extended therapy beyond 12 months reduces ischemic events but increases bleeding. [Ref 2]
+
+## Key Numbers
+- Ticagrelor reduces cardiovascular death and MI compared with clopidogrel; number needed to treat ~53 but increases non-CABG bleeding. [Ref 2]
+- For NSTE-ACS undergoing PCI, an initial bolus of unfractionated heparin 60 U/kg (max 4,000 U) followed by infusion 12 U/kg/hr achieves therapeutic anticoagulation. [Ref 1]
+- Enoxaparin is dosed 1 mg/kg subcutaneously every 12 hr (or 1 mg/kg daily if CrCl <30 mL/min) for medical management. [Ref 1]
+
+## Common Pitfall
+Stopping dual antiplatelet therapy prematurely (<1 month after stent placement) markedly increases risk of stent thrombosis. Always clarify stent type, bleeding risk and upcoming procedures; coordinate with cardiology before discontinuation. [Ref 2]
+
+## Boards + Bedside Tie-In
+Exams frequently test knowledge of loading doses, contraindications and duration of antiplatelet therapy. Clinically, early administration of appropriate antiplatelet and anticoagulant agents reduces infarct size and mortality; understanding drug selection and timing helps avoid complications like bleeding or stent thrombosis.
+
+## References
+1. Amsterdam EA, Wenger NK, Brindis RG, et al. 2014 AHA/ACC Guideline for the Management of Patients With Non–ST-Elevation Acute Coronary Syndromes. *J Am Coll Cardiol.* 2014;64(24):e139-e228. doi:10.1016/j.jacc.2014.09.017 PMID: 25260718.
+2. Levine GN, Bates ER, Bittl JA, et al. 2016 ACC/AHA guideline focused update on duration of dual antiplatelet therapy in patients with coronary artery disease. *Circulation.* 2016;134(10):e123-e155. doi:10.1161/CIR.0000000000000404 PMID: 27026020.
+3. Ibanez B, James S, Agewall S, et al. 2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation. *Eur Heart J.* 2018;39(2):119-177. doi:10.1093/eurheartj/ehx393 PMID: 28886621.
+
+---
+
+# Post-MI Medication Optimization
+
+## Clinical Setup
+A 70-year-old woman is recovering after PCI for an anterior STEMI. Her blood pressure is 118/70 mm Hg and ejection fraction is 35 %. Beyond dual antiplatelet therapy, what medications improve survival and prevent remodeling after myocardial infarction?
+
+## Teaching Objectives
+- Initiate guideline-directed medications for secondary prevention after MI
+- Explain how neurohormonal blockade and lipid lowering prevent adverse remodeling
+
+## Teaching Points
+1. Beta-blockers (metoprolol succinate, carvedilol or bisoprolol) reduce mortality and reinfarction; initiate within 24 hours if no contraindications (heart rate >60 bpm, systolic BP >90 mm Hg, no acute HF) and titrate to target doses. [Ref 1]
+2. Start ACE inhibitors or ARBs within 24 hours for anterior MI, LV dysfunction (EF ≤40 %) or diabetes; transition to angiotensin receptor–neprilysin inhibitor (sacubitril/valsartan) after stabilization to further reduce cardiovascular death and HF hospitalization. [Ref 1]
+3. High-intensity statin therapy (atorvastatin 40–80 mg or rosuvastatin 20–40 mg daily) should be initiated regardless of baseline LDL to lower recurrence and slow atherosclerosis. [Ref 1]
+4. In patients with EF ≤40 % and symptoms of heart failure or diabetes, add a mineralocorticoid receptor antagonist (spironolactone or eplerenone) after ACEI/ARB and beta-blocker; monitor potassium and renal function. [Ref 1]
+5. Continue dual antiplatelet therapy (aspirin + P2Y₁₂ inhibitor) for at least 12 months; consider indefinite low-dose aspirin and secondary P2Y₁₂ inhibitor depending on stent type and bleeding risk. [Ref 2]
+
+## Key Numbers
+- Target heart rate for beta-blocker therapy is 50–60 bpm at rest; titrate as tolerated. [Ref 1]
+- Initiating ACE inhibitor within 24 hours after MI reduces mortality by ~7 % at 30 days and up to 20 % by 1 year. [Ref 1]
+- High-intensity statins reduce major vascular events by ~22 % per 1 mmol/L LDL reduction. [Ref 1]
+
+## Teaching Pearl
+After an MI, medications are titrated to maximally tolerated doses rather than a one-size-fits-all. Schedule frequent follow-up to up-titrate beta-blockers and ACEI/ARNI and ensure adherence. Check renal function and electrolytes regularly. [Ref 1]
+
+## Boards + Bedside Tie-In
+Exams test which drugs improve survival post-MI and when to initiate them. At the bedside, early initiation of beta-blockers, ACEI/ARNI, statins and aldosterone antagonists prevents remodeling, reduces recurrent ischemia and improves long-term outcomes.
+
+## References
+1. Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA guideline for the management of heart failure. *Circulation.* 2022;145(18):e895-e1032. doi:10.1161/CIR.0000000000001063 PMID: 35363499.
+2. Levine GN, Bates ER, Bittl JA, et al. 2016 ACC/AHA guideline focused update on duration of dual antiplatelet therapy in patients with coronary artery disease. *Circulation.* 2016;134(10):e123-e155. doi:10.1161/CIR.0000000000000404 PMID: 27026020.
+
+---
+
+# Stable Angina: Medical Management Principles
+
+## Clinical Setup
+A 60-year-old man with known chronic coronary disease reports exertional chest tightness relieved by rest. His vital signs and ECG are normal. How should his angina be managed medically, and what evidence supports an optimal medical therapy–first strategy?
+
+## Teaching Objectives
+- Implement foundational therapies for chronic stable angina
+- Evaluate when to consider revascularization versus optimal medical therapy
+
+## Teaching Points
+1. Antianginal therapy begins with beta-blockers as first-line agents to reduce heart rate and myocardial oxygen demand; if symptoms persist, add a long-acting nitrate or calcium channel blocker. Ranolazine can be used for refractory angina without affecting heart rate or blood pressure. [Ref 1]
+2. All patients should receive daily low-dose aspirin (or clopidogrel if aspirin-intolerant) and high-intensity statin therapy; aggressive risk factor modification (blood pressure control, smoking cessation, weight loss) reduces future events. [Ref 2]
+3. ACE inhibitors or ARBs improve outcomes in patients with hypertension, diabetes or left ventricular dysfunction; add SGLT2 inhibitors in diabetic patients for cardiovascular benefit. [Ref 2]
+4. The COURAGE trial demonstrated that optimal medical therapy (OMT) was non-inferior to PCI for stable CAD in preventing death/MI, though PCI improved angina relief; OMT included aspirin, statins, beta-blockers, ACEI/ARB and lifestyle measures. [Ref 3]
+5. The ISCHEMIA trial compared an initial invasive strategy versus OMT in moderate-to-severe ischemia; no difference in all-cause mortality or MI was found, supporting an OMT-first approach unless refractory angina or high-risk anatomy (left main disease, LVEF <35 %). [Ref 4]
+
+## Key Numbers
+- Beta-blockers decrease angina episodes by ~25–30 % and should be titrated to resting heart rate 55–60 bpm. [Ref 1]
+- In COURAGE, PCI plus OMT showed no reduction in death/MI compared with OMT alone over 4.6 years (19.0 % vs 18.5 %). [Ref 3]
+- In ISCHEMIA, cumulative incidence of cardiovascular death/MI at 5 years was similar between invasive and conservative strategies (~13 %). [Ref 4]
+
+## Teaching Pearl
+Optimal medical therapy is dynamic; adjust medications and lifestyle interventions based on symptoms and tolerance. Reserve revascularization for patients with persistent angina despite maximally tolerated therapy or high-risk features on noninvasive testing. [Ref 4]
+
+## Boards + Bedside Tie-In
+Exams may ask about trial results and sequencing of therapy for stable angina. Clinically, focusing on medical therapy reduces morbidity and often obviates the need for invasive procedures; patient education on lifestyle modification is crucial.
+
+## References
+1. Fihn SD, Gardin JM, Abrams J, et al. 2012 ACCF/AHA/ACP/AATS/PCNA/SCAI/STS guideline for the diagnosis and management of patients with stable ischemic heart disease. *J Am Coll Cardiol.* 2012;60(24):e44-e164. doi:10.1016/j.jacc.2012.07.013 PMID: 23182125.
+2. Lawton JS, Tamis-Holland JE, Alviar CL, et al. 2023 ACC/AHA/ACCP/ASPC/NLA/PCNA guideline for the diagnosis and management of chronic coronary disease. *Circulation.* 2023;148(3):e111-e308. doi:10.1161/CIR.0000000000001168 PMID: 37471501.
+3. Boden WE, O’Rourke RA, Teo KK, et al. Optimal medical therapy with or without PCI for stable coronary disease. *N Engl J Med.* 2007;356(15):1503-1516. doi:10.1056/NEJMoa070829 PMID: 17387127.
+4. Maron DJ, Hochman JS, Reynolds HR, et al. Initial invasive or conservative strategy for stable coronary disease. *N Engl J Med.* 2020;382(15):1395-1407. doi:10.1056/NEJMoa1915922 PMID: 32227755.
+
+---
+
+# Atrial Fibrillation: Rate vs Rhythm Control
+
+## Clinical Setup
+A 76-year-old man with hypertension and heart failure with preserved ejection fraction presents with new-onset atrial fibrillation (AF) and palpitations for 8 hours. His blood pressure is 128/78 mm Hg and he is mildly dyspneic. Should his management emphasize rate control or rhythm control?
+
+## Teaching Objectives
+- Compare indications, benefits and risks of rate versus rhythm control strategies
+- Apply trial data to individualize AF management
+
+## Teaching Points
+1. Rate control aims to control ventricular response and relieve symptoms; beta-blockers or nondihydropyridine calcium channel blockers (diltiazem, verapamil) are first-line agents. Digoxin is reserved for sedentary patients or when hypotension limits other agents. [Ref 1]
+2. Rhythm control (antiarrhythmic drugs or electrical cardioversion) is considered for persistent symptoms despite adequate rate control, first episode of AF in young patients, tachy-cardiomyopathy, or when AF precipitates heart failure. [Ref 1]
+3. The AFFIRM trial showed no survival advantage of rhythm control over rate control; rhythm control was associated with more hospitalizations and adverse drug effects, so rate control with adequate anticoagulation remains the default strategy. [Ref 2]
+4. In patients with symptomatic AF <48 hr onset, early cardioversion is reasonable; anticoagulation is still required based on CHA2DS2-VASc score to prevent thromboembolism. [Ref 1]
+5. Emerging data suggest that early rhythm control within the first year of AF diagnosis may reduce cardiovascular events and stroke, but this approach requires careful patient selection and specialist consultation. [Ref 1]
+
+## Key Numbers
+- In AFFIRM, all-cause mortality at 5 years was similar (23.8 % rhythm vs 21.3 % rate). [Ref 2]
+- Target resting heart rate in AF is generally <80 bpm; lenient control (<110 bpm) may be acceptable in asymptomatic patients. [Ref 1]
+- Antiarrhythmic drugs carry pro-arrhythmic risk; amiodarone increases mortality in non-ischemic HF at high doses (avoid unless other agents fail). [Ref 1]
+
+## Teaching Pearl
+Rate control is often easier and safer than rhythm control; ensure adequate anticoagulation and address reversible factors (e.g., thyroid disease, sleep apnea). Engage patients in shared decision making when considering rhythm control. [Ref 2]
+
+## Boards + Bedside Tie-In
+Test questions may ask which patients benefit from rhythm control. In practice, older patients with minimal symptoms generally do well with rate control, whereas younger, symptomatic patients or those with tachy-cardiomyopathy may benefit from early rhythm control.
+
+## References
+1. January CT, Wann LS, Calkins H, et al. 2019 AHA/ACC/HRS Focused update on atrial fibrillation: management of patients with atrial fibrillation. *J Am Coll Cardiol.* 2019;74(1):104-132. doi:10.1016/j.jacc.2019.01.011 PMID: 30703431.
+2. Wyse DG, Waldo AL, DiMarco JP, et al. A comparison of rate control and rhythm control in patients with atrial fibrillation. *N Engl J Med.* 2002;347(23):1825-1833. doi:10.1056/NEJMoa021328 PMID: 12466506.
+
+---
+
+# Anticoagulation Decisions in Atrial Fibrillation
+
+## Clinical Setup
+A 72-year-old woman with paroxysmal AF and hypertension asks whether she needs anticoagulation. Her CHA2DS2-VASc score is 3 (age ≥65, female sex and hypertension). How should stroke and bleeding risks guide anticoagulation decisions?
+
+## Teaching Objectives
+- Apply CHA2DS2-VASc and HAS-BLED scores to guide anticoagulation
+- Select appropriate anticoagulant agents for non-valvular AF
+
+## Teaching Points
+1. The CHA2DS2-VASc score assigns points for congestive heart failure (1), hypertension (1), age ≥75 (2), diabetes (1), stroke/TIA (2), vascular disease (1), age 65–74 (1) and female sex (1). Anticoagulation is recommended for scores ≥2 in men or ≥3 in women. [Ref 1]
+2. The HAS-BLED score estimates bleeding risk (hypertension, abnormal liver/kidney function, stroke history, bleeding history, labile INR, age >65 yr, drugs/alcohol). A score ≥3 indicates high bleeding risk; optimize modifiable factors but do not withhold anticoagulation solely based on high score. [Ref 1]
+3. Direct oral anticoagulants (DOACs) such as apixaban, rivaroxaban, dabigatran and edoxaban are preferred over warfarin for non-valvular AF due to lower rates of intracranial hemorrhage and similar or improved efficacy. Warfarin remains appropriate for patients with mechanical heart valves, moderate-to-severe mitral stenosis or severe renal impairment. [Ref 1]
+4. In patients with CHA2DS2-VASc score of 1 (men) or 2 (women), anticoagulation may be considered after discussing risks and benefits; aspirin alone is insufficient. The CHA₂DS₂-VASc score reclassifies many patients with a CHADS₂ score of 1 as truly low risk (<1 % annual stroke), identifying those unlikely to benefit from anticoagulation. [Ref 1, 2]
+5. Reassess stroke and bleeding risks annually and educate patients on adherence, dietary interactions (for warfarin) and monitoring needs; DOAC dosing must be adjusted for renal function and age. [Ref 1]
+
+## Key Numbers
+- CHA2DS2-VASc score ≥2 in men or ≥3 in women confers annual stroke risk >2 % and warrants anticoagulation. [Ref 1]
+- Apixaban 5 mg twice daily reduces stroke/systemic embolism by ~21 % compared with warfarin and lowers major bleeding by ~31 %. [Ref 1]
+- HAS-BLED score ≥3 predicts major bleeding risk of ~4 % per year; modifiable factors include uncontrolled hypertension, labile INR and concomitant antiplatelets/alcohol. [Ref 1]
+
+## Teaching Pearl
+Use both stroke and bleeding scores to guide shared decision-making. A high bleeding risk rarely outweighs the benefits of anticoagulation; instead, address reversible bleeding risks (e.g., uncontrolled blood pressure, NSAID use). [Ref 1]
+
+## Boards + Bedside Tie-In
+Test questions often present patients with specific CHA2DS2-VASc and HAS-BLED scores and ask about initiation of anticoagulation. Clinically, DOACs have simplified management, but careful patient selection and dose adjustment remain essential.
+
+## References
+1. January CT, Wann LS, Calkins H, et al. 2019 AHA/ACC/HRS Focused update on atrial fibrillation: management of patients with atrial fibrillation. *J Am Coll Cardiol.* 2019;74(1):104-132. doi:10.1016/j.jacc.2019.01.011 PMID: 30703431.
+2. Lip GYH, Nieuwlaat R, Pisters R, et al. The CHA₂DS₂-VASc score identifies those patients with atrial fibrillation and a CHADS₂ score of 1 who are unlikely to benefit from oral anticoagulant therapy. *Eur Heart J.* 2013;34(3):170-176. doi:10.1093/eurheartj/ehs314 PMID: 23018151.
+
+---
+
+# Approach to Inpatient Bradycardia
+
+## Clinical Setup
+A 78-year-old man admitted for pneumonia develops symptomatic bradycardia with heart rate 32 bpm, blood pressure 88/50 mm Hg and dizziness. The ECG shows sinus bradycardia without heart block. What is the immediate approach to managing bradycardia in the hospital?
+
+## Teaching Objectives
+- Recognize and treat clinically significant bradycardia using ACLS algorithms
+- Identify reversible causes and determine when pacing is required
+
+## Teaching Points
+1. Assess airway, breathing and circulation; provide supplemental oxygen and establish IV access. If the patient is unstable (hypotension, altered mental status, shock, ischemic chest discomfort), administer atropine 0.5 mg IV bolus, repeating every 3–5 minutes to a total of 3 mg. [Ref 1]
+2. If atropine is ineffective, initiate transcutaneous pacing or infusions of dopamine (2–10 mcg/kg/min) or epinephrine (2–10 mcg/min) while preparing for transvenous pacing. [Ref 1]
+3. Evaluate for and treat reversible causes (the “Hs and Ts”): hypoxia, hypothermia, hyperkalemia, hypothyroidism, hypoglycemia, toxins (beta-blockers, calcium channel blockers, digoxin), ischemia/infarction and increased intracranial pressure. [Ref 1]
+4. Chronic or persistent bradyarrhythmias may require pacemaker implantation, particularly for symptomatic sinus node dysfunction or high-grade AV block; avoid atropine in suspected infranodal block as it may exacerbate conduction delay and adjust atropine dosing to lean body weight to avoid paradoxical bradycardia in obese patients. [Ref 1, 2]
+5. Discontinue AV nodal blocking agents (beta-blockers, calcium channel blockers, digoxin) and review other medications (opioids, sedatives) that may depress sinus node function; correct electrolyte abnormalities (potassium, calcium, magnesium). [Ref 1]
+
+## Key Numbers
+- Atropine dose: 0.5 mg IV every 3–5 minutes, maximum total dose 3 mg. [Ref 1]
+- Transcutaneous pacing energy: start at 60–80 mA and adjust until capture; pacing rate 60–70 bpm. [Ref 1]
+- Dopamine or epinephrine infusions: 2–10 mcg/kg/min (dopamine) or 2–10 mcg/min (epinephrine) to support heart rate and blood pressure. [Ref 1]
+
+## Common Pitfall
+Treating asymptomatic sinus bradycardia or first-degree AV block may lead to unnecessary pacing and medication adjustments. Intervene only when bradycardia causes hemodynamic compromise or has high risk of progression. [Ref 1]
+
+## Boards + Bedside Tie-In
+Exam questions often present the ACLS bradycardia algorithm. In practice, rapid recognition of instability and adherence to stepwise treatment, including atropine, pacing, and identification of reversible causes can be lifesaving.
+
+## References
+1. Kusumoto FM, Schoenfeld MH, Barrett C, et al. 2018 ACC/AHA/HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay. *J Am Coll Cardiol.* 2019;74(7):932-987. doi:10.1016/j.jacc.2018.10.043 PMID: 30412710.
+2. Carron M, Veronese S. Atropine sulfate for treatment of bradycardia in a patient with morbid obesity: what may happen when you least expect it. *BMJ Case Rep.* 2015;2015:bcr2014207596. doi:10.1136/bcr-2014-207596 PMID: 25634857.
+
+---
+
+# QTc Prolongation: Causes and Management
+
+## Clinical Setup
+A 62-year-old woman treated with ciprofloxacin and ondansetron for a urinary tract infection develops palpitations and lightheadedness. Her ECG shows a QTc of 520 ms. How should we evaluate and manage this prolonged QT interval?
+
+## Teaching Objectives
+- Identify common causes of QT prolongation and estimate torsades risk
+- Implement appropriate management to prevent and treat torsades de pointes
+
+## Teaching Points
+1. QT prolongation can result from medications (antiarrhythmics like sotalol, amiodarone; antibiotics like macrolides, fluoroquinolones; psychotropics), electrolyte disturbances (hypokalemia, hypomagnesemia, hypocalcemia), structural heart disease and congenital long-QT syndromes. [Ref 1]
+2. The Tisdale risk score predicts QTc prolongation in hospitalized patients using factors such as age ≥68 yr, female sex, loop diuretic use, serum potassium ≤3.5 mEq/L, admission QTc ≥450 ms, sepsis, and use of ≥2 QT-prolonging drugs; scores ≥11 indicate high risk. [Ref 1]
+3. Management involves discontinuing offending drugs, correcting electrolytes (potassium >4.5 mEq/L, magnesium >2 mg/dL), avoiding bradycardia and monitoring continuous telemetry. [Ref 1]
+4. If torsades de pointes occurs, treat with intravenous magnesium sulfate 2 g over 1–2 minutes (repeat as needed), temporary pacing or isoproterenol infusion to increase heart rate, and cardioversion if unstable. [Ref 2]
+5. Congenital long-QT syndromes may require beta-blocker therapy and implantable cardioverter-defibrillator (ICD) for secondary prevention; avoid QT-prolonging drugs lifelong. [Ref 2]
+
+## Key Numbers
+- QTc >500 ms is associated with a five-fold increased risk of torsades de pointes and warrants immediate evaluation. [Ref 1]
+- Tisdale score ≥11 predicts a ~12 % incidence of QT prolongation; scores <7 have <3 % risk. [Ref 1]
+- Magnesium sulfate dose for torsades: 2 g IV over 1–2 minutes; may repeat twice if torsades persists. [Ref 2]
+
+## Teaching Pearl
+QTc varies with heart rate and requires correction; use Bazett’s formula cautiously at extremes of heart rate. Always review medication lists for hidden QT-prolonging agents, especially in elderly or critically ill patients. [Ref 1]
+
+## Boards + Bedside Tie-In
+On exams, identify medications that prolong the QT interval and know acute management of torsades. Clinically, proactive risk assessment using the Tisdale score and aggressive correction of electrolytes can prevent lethal arrhythmias.
+
+## References
+1. Tisdale JE, Jaynes HA, Kingery JR, et al. Development and validation of a risk score to predict QT interval prolongation in hospitalized patients. *Circ Cardiovasc Qual Outcomes.* 2013;6(4):479-487. doi:10.1161/CIRCOUTCOMES.113.000152 PMID: 23716032.
+2. Lachman N, Syed FF, Bansal O, et al. Polymorphic ventricular tachycardia: terminology, mechanism, diagnosis, and emergency therapy. *Circulation.* 2021;143(18):1878-1897. doi:10.1161/CIRCULATIONAHA.121.055783 PMID: 34491774.
+
+---
+
+# Heart Block: Recognition and Initial Approach
+
+## Clinical Setup
+A 68-year-old woman presents with dizziness and syncope. Her ECG shows P waves unrelated to QRS complexes with ventricular rate 30 bpm. How do we recognize and manage different types of atrioventricular (AV) block?
+
+## Teaching Objectives
+- Distinguish first-, second- and third-degree AV blocks on ECG
+- Initiate appropriate management based on block type and symptoms
+
+## Teaching Points
+1. First-degree AV block is characterized by a prolonged PR interval (>200 ms) with 1:1 AV conduction and usually requires no treatment unless associated with bradycardia or drug toxicity. [Ref 1]
+2. Second-degree type I (Mobitz I/Wenckebach) shows progressive PR prolongation followed by a dropped QRS; it often occurs at the AV node and is usually benign; monitor for symptoms and discontinue AV nodal blockers. [Ref 1]
+3. Second-degree type II (Mobitz II) exhibits constant PR intervals with intermittent non-conducted P waves and carries a high risk of progression to complete block; correctly identifying Mobitz II is crucial as misinterpreted forms exist and it always requires pacing. [Ref 1, 2]
+4. Third-degree (complete) AV block shows complete atrioventricular dissociation; atrial and ventricular rates are independent. Urgent pacing (temporary transvenous followed by permanent pacemaker) is indicated, especially if symptomatic or associated with MI. [Ref 1]
+5. Evaluate for reversible causes including ischemia (especially inferior MI), medications (beta-blockers, calcium channel blockers, digoxin), electrolyte disturbances and infiltrative diseases. Treat underlying causes while arranging pacing. [Ref 1]
+
+## Key Numbers
+- PR interval >200 ms defines first-degree AV block; >300 ms may cause fatigue or presyncope. [Ref 1]
+- In complete heart block, escape ventricular rhythm is usually 20–40 bpm; survival requires temporary pacing and eventual permanent pacemaker. [Ref 1]
+- Mobitz II block is often infranodal (His-Purkinje) and progresses to complete block in up to 50 % of cases. [Ref 1]
+
+## Teaching Pearl
+Do not rely solely on atropine for high-grade or complete AV block because infranodal block may not respond; early involvement of electrophysiology and placement of a temporary pacemaker bridge to permanent pacing is essential. [Ref 1]
+
+## Boards + Bedside Tie-In
+Exams test identification of AV blocks from ECGs and appropriate acute management. Clinically, timely recognition and intervention prevent syncope, sudden death and complications such as torsades secondary to profound bradycardia.
+
+## References
+1. Kusumoto FM, Schoenfeld MH, Barrett C, et al. 2018 ACC/AHA/HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay. *J Am Coll Cardiol.* 2019;74(7):932-987. doi:10.1016/j.jacc.2018.10.043 PMID: 30412710.
+2. Barold SS, Herweg B. Mobitz type II second-degree atrioventricular block: a commonly overdiagnosed and misinterpreted arrhythmia. *Front Cardiovasc Med.* 2024;11:1450705. doi:10.3389/fcvm.2024.1450705 PMID: 39267806.
+
+---
+
+# Acute Decompensated Heart Failure Management
+
+## Clinical Setup
+A 72-year-old man with known HFrEF (EF 30 %) presents with acute dyspnea, orthopnea and bilateral crackles. He is hypertensive and has jugular venous distention. How should his acute decompensated heart failure (ADHF) be managed in the first few hours?
+
+## Teaching Objectives
+- Assess and stabilize patients with ADHF using the warm/cold and wet/dry profiles
+- Implement evidence-based strategies for preload and afterload reduction and determine when inotropes or mechanical support are needed
+
+## Teaching Points
+1. Evaluate hemodynamic profile: most ADHF patients are “warm and wet” (adequate perfusion, volume overload). Provide supplemental oxygen and non-invasive ventilation if hypoxemic; monitor blood pressure, urine output and consider invasive monitoring for unclear profiles. [Ref 1]
+2. Intravenous loop diuretics (furosemide 20–40 mg IV bolus for naïve patients or equivalent of home dose) are first-line to relieve congestion; double the dose if inadequate diuresis and monitor electrolytes and renal function. [Ref 2]
+3. Vasodilators (nitroglycerin, nitroprusside) rapidly reduce preload and afterload in hypertensive ADHF; avoid if systolic BP <90 mm Hg or right ventricular infarction. For normotensive patients with persistent dyspnea, nitrates improve symptoms. [Ref 1]
+4. Hypotensive “cold and wet” patients may need inotropes (dobutamine or milrinone) and vasopressors (norepinephrine) along with cautious diuresis; treat precipitating factors (ischemia, arrhythmia, infection) and evaluate for mechanical circulatory support. [Ref 1]
+5. Avoid routine use of opioids, calcium channel blockers or non-invasive positive pressure ventilation in cardiogenic shock; manage comorbidities (e.g., atrial fibrillation, hypertensive emergency) concurrently. [Ref 1]
+
+## Key Numbers
+- Goal urine output: ≥0.5 mL/kg/hr; diuresis of 1–2 L/day indicates effective decongestion. [Ref 2]
+- Furosemide IV dose should be 1–2.5 times the patient’s total daily oral dose; doubling the dose increases natriuresis without raising toxicity. [Ref 2]
+- Nitrates reduce pulmonary capillary wedge pressure by ~15 % within minutes and improve dyspnea; start nitroglycerin infusion at 10–20 mcg/min and titrate. [Ref 1]
+
+## Common Pitfall
+Continuing high-dose intravenous diuretics without reassessing diuretic response can worsen renal function and electrolyte imbalance. Monitor urine sodium and adjust therapy; consider adding a thiazide-type diuretic or ultrafiltration if refractory to loop diuretics. [Ref 2]
+
+## Boards + Bedside Tie-In
+Exam questions often focus on initial management of decompensated HF and recognition of hemodynamic profiles. Clinically, a systematic approach (oxygenation, diuretics, vasodilators and addressing precipitating causes) reduces mortality and rehospitalization.
+
+## References
+1. Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA guideline for the management of heart failure. *Circulation.* 2022;145(18):e895-e1032. doi:10.1161/CIR.0000000000001063 PMID: 35363499.
+2. Felker GM, Lee KL, Bull DA, et al. Diuretic strategies in patients with acute decompensated heart failure. *N Engl J Med.* 2011;364(9):797-805. doi:10.1056/NEJMoa1005419 PMID: 21366472.
+
+---
+
+# HFrEF: Guideline-Directed Medical Therapy
+
+## Clinical Setup
+A 58-year-old man with ischemic cardiomyopathy (EF 30 %) is seen in the clinic for management of chronic heart failure with reduced ejection fraction (HFrEF). He is currently taking lisinopril, metoprolol succinate and furosemide. What additional therapies should be implemented to optimize his care?
+
+## Teaching Objectives
+- Identify classes of drugs that improve survival and quality of life in HFrEF
+- Sequence initiation and up-titration of guideline-directed medical therapy (GDMT)
+
+## Teaching Points
+1. Initiate an angiotensin receptor–neprilysin inhibitor (sacubitril/valsartan) in place of ACEI/ARB for symptomatic HFrEF to reduce cardiovascular death and HF hospitalization; the PARADIGM-HF trial demonstrated that sacubitril/valsartan reduced cardiovascular death or HF hospitalization by about 20 % compared with enalapril. [Ref 1, 2]
+2. Continue evidence-based beta-blockers (carvedilol, metoprolol succinate, bisoprolol) and titrate to maximum tolerated doses; avoid initiation during acute decompensation. [Ref 1]
+3. Add a mineralocorticoid receptor antagonist (spironolactone or eplerenone) for patients with EF ≤35 % and persistent symptoms despite ACEI/ARB/ARNI and beta-blocker; monitor renal function and potassium. [Ref 1]
+4. Sodium–glucose cotransporter 2 (SGLT2) inhibitors (dapagliflozin or empagliflozin) reduce cardiovascular death and HF hospitalization independent of diabetes status; initiate in all eligible HFrEF patients. [Ref 1]
+5. Hydralazine plus isosorbide dinitrate improves survival in African American patients with HFrEF despite ACEI and beta-blocker therapy or in those intolerant to ACEI/ARB/ARNI. Consider implantable cardioverter-defibrillator (ICD) for primary prevention if EF ≤35 % after ≥3 months of GDMT. [Ref 1]
+
+## Key Numbers
+- Sacubitril/valsartan reduces all-cause mortality by ~16 % compared with enalapril in the PARADIGM-HF trial; target dose 97/103 mg twice daily. [Ref 1]
+- SGLT2 inhibitors lower the risk of cardiovascular death or HF hospitalization by ~25 % regardless of diabetes status. [Ref 1]
+- Spironolactone reduces mortality by ~30 % in severe HF but increases hyperkalemia risk; monitor potassium and creatinine within 1 week of initiation and regularly thereafter. [Ref 1]
+
+## Teaching Pearl
+Initiate GDMT sequentially but expeditiously, starting with beta-blockers and ACEI/ARB/ARNI, then adding mineralocorticoid receptor antagonists and SGLT2 inhibitors. Frequent follow-up is key to titrate doses and monitor side effects. [Ref 1]
+
+## Boards + Bedside Tie-In
+Test questions may require knowing which medications improve survival in HFrEF and their sequencing. In clinical practice, comprehensive GDMT dramatically reduces mortality, hospitalizations and symptoms, making aggressive implementation essential.
+
+## References
+1. Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA guideline for the management of heart failure. *Circulation.* 2022;145(18):e895-e1032. doi:10.1161/CIR.0000000000001063 PMID: 35363499.
+2. McMurray JJ, Packer M, Desai AS, et al. Angiotensin-neprilysin inhibition versus enalapril in heart failure. *N Engl J Med.* 2014;371(11):993-1004. doi:10.1056/NEJMoa1409077 PMID: 25176015.
+
+---
+
+# Diuretic Resistance: Assessment and Strategies
+
+## Clinical Setup
+A 75-year-old woman with chronic HFrEF is admitted with volume overload. After receiving high-dose IV furosemide, her urine output is minimal and she remains edematous. How should diuretic resistance be assessed and managed?
+
+## Teaching Objectives
+- Identify causes of diuretic resistance in heart failure
+- Employ strategies to overcome resistance, including combination therapy and non-pharmacologic interventions
+
+## Teaching Points
+1. Diuretic resistance is multifactorial; consider inadequate dosing, poor gastrointestinal absorption (edema of gut), renal hypoperfusion, nephron remodeling and excessive sodium intake. Check medication adherence and restrict dietary sodium (<2 g/day) and fluid intake (1.5–2 L/day). [Ref 1]
+2. Assess diuretic response by measuring urine output and spot urine sodium after a loop diuretic dose; urine sodium <50 mEq/L suggests diuretic resistance and may prompt dose escalation or combination therapy. [Ref 1]
+3. Strategies include increasing loop diuretic dose (or switching to continuous infusion), combining with a thiazide-type diuretic (metolazone 2.5–10 mg orally or chlorothiazide 500 mg IV) to block distal sodium reabsorption, or adding acetazolamide for metabolic alkalosis. [Ref 1]
+4. The DOSE trial demonstrated no difference in outcomes between bolus and continuous infusion, but higher doses achieved greater diuresis and symptom relief; adjust based on renal function and blood pressure. [Ref 2]
+5. Consider ultrafiltration or peritoneal dialysis in refractory cases with severe volume overload despite maximal pharmacologic therapy; coordinate with nephrology and monitor for intravascular volume depletion. [Ref 1]
+
+## Key Numbers
+- Urine sodium <50 mEq/L after loop diuretic indicates poor natriuresis and suggests diuretic resistance. [Ref 1]
+- Metolazone enhances sodium excretion; diuresis increases by ~1 L/day when combined with loop diuretics but risk of hyponatremia and hypokalemia necessitates close monitoring. [Ref 1]
+- In the DOSE trial, high-dose furosemide (2.5 × home dose) resulted in greater weight loss (3.3 kg vs 2.0 kg) at 72 hours without increased adverse events. [Ref 2]
+
+## Teaching Pearl
+Early recognition of diuretic resistance allows timely escalation of therapy; check urine sodium and diuretic delivery, and consider sequential nephron blockade. Always monitor electrolytes and renal function when using combination diuretics. [Ref 1]
+
+## Boards + Bedside Tie-In
+Exams may ask about combination diuretic therapy and interpretations of urine sodium. Clinically, overcoming diuretic resistance improves congestion relief, quality of life and reduces hospital length of stay.
+
+## References
+1. Horiuchi Y, Wettersten N. Treatment strategies for diuretic resistance in patients with heart failure. *J Cardiol.* 2025;85(1):1-7. doi:10.1016/j.jjcc.2024.06.005 PMID: 38914279.
+2. Felker GM, Lee KL, Bull DA, et al. Diuretic strategies in patients with acute decompensated heart failure. *N Engl J Med.* 2011;364(9):797-805. doi:10.1056/NEJMoa1005419 PMID: 21366472.
+
+---
+
+# Valvular Heart Disease: Recognizing High-Risk Features
+
+## Clinical Setup
+A 72-year-old man with known aortic stenosis reports worsening exertional dyspnea. His echocardiogram shows a peak aortic jet velocity of 4.5 m/s, mean gradient 50 mm Hg and valve area 0.8 cm². What high-risk features across valvular diseases necessitate urgent referral for valve intervention?
+
+## Teaching Objectives
+- Recognize high-risk features in aortic and mitral valve disease that prompt intervention
+- Apply guideline thresholds to decide when to refer for surgery or transcatheter therapy
+
+## Teaching Points
+1. Severe aortic stenosis is defined by aortic valve area <1.0 cm², mean gradient ≥40 mm Hg or peak velocity ≥4.0 m/s; symptoms (angina, syncope, dyspnea) or left ventricular ejection fraction (LVEF) <50 % are high-risk features requiring valve replacement (surgical or transcatheter). [Ref 1, 2]
+2. In chronic severe aortic regurgitation, intervention is indicated when LVEF ≤55 % or left ventricular end-systolic diameter ≥50 mm (or indexed >25 mm/m²) even if asymptomatic; symptoms with preserved EF also prompt surgery. [Ref 1]
+3. Severe mitral regurgitation warrants repair or replacement if there are symptoms, LVEF 30–60 %, left ventricular end-systolic diameter ≥40 mm or pulmonary hypertension (>50 mm Hg at rest). Asymptomatic patients with new-onset atrial fibrillation or pulmonary hypertension are also candidates. [Ref 1]
+4. Severe mitral stenosis (valve area ≤1.5 cm²) becomes high risk when symptoms occur, when pulmonary artery systolic pressure exceeds 50 mm Hg, or when there is new atrial fibrillation; percutaneous mitral balloon valvotomy or surgery is recommended. [Ref 1]
+5. Always consider frailty, comorbidities and patient preferences; refer to a multidisciplinary Heart Valve Team for individualized decision making. [Ref 1]
+
+## Key Numbers
+- Aortic stenosis: valve area <1 cm² and mean gradient ≥40 mm Hg define severe stenosis; symptom onset portends ~50 % mortality at 2 years without intervention. [Ref 1]
+- Severe aortic regurgitation: LVEF ≤55 % or LV end-systolic diameter ≥50 mm are surgical thresholds. [Ref 1]
+- Mitral regurgitation: LVEF <60 % or left ventricular end-systolic diameter ≥40 mm indicate need for surgery even if asymptomatic. [Ref 1]
+
+## Teaching Pearl
+High-risk features may be present despite minimal symptoms. Regular surveillance echocardiography detects early changes in ventricular size and function; timely referral for intervention improves outcomes. [Ref 1]
+
+## Boards + Bedside Tie-In
+Exams often test numeric thresholds for severe valvular disease and indications for surgery. In practice, recognizing these thresholds and referring early to a valve team can prevent irreversible myocardial damage and improve survival.
+
+## References
+1. Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA guideline for the management of patients with valvular heart disease: executive summary. *Circulation.* 2021;143(5):e35-e71. doi:10.1161/CIR.0000000000000932 PMID: 33332149.
+2. Mack MJ, Leon MB, Thourani VH, et al. Transcatheter aortic-valve replacement with a balloon-expandable valve in low-risk patients. *N Engl J Med.* 2019;380(18):1695-1705. doi:10.1056/NEJMoa1814052 PMID: 30883058.
+
+---
+
+# Hypertensive Emergency vs Urgency
+
+## Clinical Setup
+A 58-year-old woman presents to the emergency department with blood pressure 210/130 mm Hg but denies headache, visual changes or chest pain. Her exam is unremarkable and labs show normal creatinine. How do we differentiate hypertensive urgency from emergency, and what is the appropriate management?
+
+## Teaching Objectives
+- Distinguish hypertensive emergency from urgency based on presence of target-organ damage
+- Implement safe blood pressure reduction strategies in each scenario
+
+## Teaching Points
+1. Hypertensive emergency is defined as severe blood pressure elevation (usually systolic ≥180 mm Hg or diastolic ≥120 mm Hg) with acute hypertension-mediated organ damage such as encephalopathy, intracerebral hemorrhage, acute ischemic stroke, acute coronary syndrome, acute heart failure, or acute kidney injury. Hypertensive urgency involves similar blood pressure levels but without target-organ damage. [Ref 1]
+2. In hypertensive emergency, reduce mean arterial pressure by no more than 25 % within the first hour using intravenous agents (nicardipine, clevidipine, labetalol) and monitor closely; excessive rapid lowering risks cerebral or myocardial ischemia. [Ref 1]
+3. Hypertensive urgencies do not require immediate IV therapy; blood pressure can be lowered gradually over 24–48 hours with oral medications (e.g., ACEI, calcium channel blockers) and close outpatient follow-up. [Ref 1]
+4. Evaluate for secondary causes (pheochromocytoma, substance withdrawal, preeclampsia) and screen for end-organ injury with neurologic exam, funduscopic exam, urinalysis, creatinine, troponin and chest X-ray. [Ref 2]
+5. Avoid sublingual nifedipine or immediate-release oral agents due to risk of precipitous blood pressure drops and ischemia; treatment should be tailored to the specific organ injury (e.g., aortic dissection requires rapid BP reduction to systolic 100–120 mm Hg with beta-blocker plus vasodilator). [Ref 1]
+
+## Key Numbers
+- Definition of severe hypertension: systolic ≥180 mm Hg or diastolic ≥120 mm Hg. [Ref 1]
+- Initial BP reduction in hypertensive emergency: lower mean arterial pressure by up to 25 % in the first hour, then to 160/100 mm Hg over the next 2–6 hours. [Ref 1]
+- In hypertensive urgency, BP should be lowered gradually to <160/100 mm Hg over 24–48 hours with oral agents. [Ref 1]
+
+## Teaching Pearl
+The term “hypertensive urgency” is being replaced by “severely elevated blood pressure without acute target-organ damage.” Many patients with severe asymptomatic hypertension can be managed safely as outpatients; focus on medication adherence, follow-up and addressing chronic hypertension. [Ref 1]
+
+## Boards + Bedside Tie-In
+Exams may ask you to recognize hypertensive emergencies and choose the appropriate IV agent. In clinical practice, rapidly identifying target-organ damage and tailoring therapy prevents morbidity and mortality.
+
+## References
+1. Bress AP, Anderson TS, Flack JM, et al. The management of elevated blood pressure in the acute care setting: a scientific statement from the American Heart Association. *Hypertension.* 2024;81(8):e94-e106. doi:10.1161/HYP.0000000000000238 PMID: 38804130.
+2. Whelton PK, Carey RM, Aronow WS, et al. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA guideline for the prevention, detection, evaluation, and management of high blood pressure in adults. *Hypertension.* 2018;71(6):e13-e115. doi:10.1161/HYP.0000000000000065 PMID: 29133356.
+
